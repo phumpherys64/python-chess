@@ -1,0 +1,31 @@
+[Site "https://lichess.org/RPwsKJD2"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "oleg1968slon"]
+[BlackElo "1721"]
+[WhiteElo "1704"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.15"]
+[Date "2024.02.15"]
+[TimeControl "300+3"]
+[ECO "B92"]
+[UTCTime "17:26:39"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:04:57]  2... d6  [%clk 0:05:01]  3. d4  [%clk 0:05:00]  3... cxd4  [%clk 0:05:01]  4. Nxd4  [%clk 0:05:03]  4... Nf6  [%clk 0:05:02]  5. Nc3  [%clk 0:05:00]  5... a6  [%clk 0:05:04]  6. Be2  B92 Sicilian Defense: Najdorf Variation, Opocensky Variation  6... e5  [%clk 0:04:59]  7. Nb3  [%clk 0:05:01]  7... Be7  [%clk 0:04:51]  8. Be3  [%clk 0:05:02]  8... Be6  [%clk 0:04:51]  9. g4  [%clk 0:05:03]  9... b5  [%clk 0:04:12]  
+( 9... h6 10. h4 Nbd7 ) 
+10. a3  [%clk 0:05:03]  10... O-O  [%clk 0:03:45]  
+( 10... h6 ) 
+11. g5  [%clk 0:05:04]  11... Nfd7  [%clk 0:03:43]  12. h4  [%clk 0:05:05]  12... Nb6  [%clk 0:03:29]  13. f4  [%clk 0:03:40]  13... exf4  [%clk 0:03:15]  14. Bxf4  [%clk 0:03:43]  14... Nc6  [%clk 0:03:14]  15. Qd2  [%clk 0:03:30]  15... Ne5  [%clk 0:03:05]  
+( 15... f6 16. Rg1 ( 16. O-O-O Nc4 17. Bxc4 bxc4 18. Nd4 Nxd4 19. Qxd4 fxg5 20. Bxd6 gxh4 21. Bxe7 Qxe7 22. Nd5 Qg5+ 23. Kb1 Bg4 24. Rdg1 h5 ) 16... fxg5 17. Bxg5 Bxg5 18. hxg5 Nc4 19. Bxc4 bxc4 20. Nd4 Qb6 21. O-O-O Nxd4 22. Qxd4 Rab8 23. Qxb6 Rxb6 ) 
+16. O-O-O  [%clk 0:03:13]  16... Nec4  [%clk 0:02:36]  
+( 16... Qc7 ) 
+17. Qd4  [%clk 0:03:10]  17... Qc7  [%clk 0:01:53]  18. Nd2  [%clk 0:03:02]  18... Rac8  [%clk 0:01:03]  
+( 18... Nxb2 19. Kxb2 Rfc8 20. Nd5 Nxd5 21. exd5 Qxc2+ 22. Ka1 Bxd5 23. Qxd5 Qc3+ 24. Kb1 Qc2+ 25. Ka1 ) 
+19. Nxc4  [%clk 0:03:02]  19... Bxc4  [%clk 0:00:52]  20. Bg4  [%clk 0:02:36]  20... Rcd8  [%clk 0:00:31]  21. h5  [%clk 0:02:30]  21... g6  [%clk 0:00:15]  22. h6  [%clk 0:02:25]  22... f6  [%clk 0:00:13]  23. Rh2  [%clk 0:01:47]  23... fxg5  [%clk 0:00:11]  24. Qg7#  White wins by checkmate.  1-0
+

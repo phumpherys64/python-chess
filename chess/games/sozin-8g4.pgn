@@ -1,0 +1,38 @@
+[Site "https://lichess.org/sL2GhL6U"]
+[UTCTime "17:31:12"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[White "PhilZeppelin"]
+[BlackElo "1590"]
+[WhiteElo "1601"]
+[Termination "Time forfeit"]
+[Black "gaminov"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[UTCDate "2023.12.09"]
+[Date "2023.12.09"]
+[TimeControl "300+3"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4 h6 9. h4 Qc7 10. Be3 
+( 10. Qf3 h5 ( 10... Nc6 11. Nxc6 bxc6 12. g5 Nd7 ( 12... hxg5 13. hxg5 Rxh1+ 14. Qxh1 Nd7 15. Be3 ) ) 11. g5 Ng4 12. Bf4 g6 13. O-O-O Nc6 14. a3 O-O 15. Qe2 ) 
+( 10. Rg1 Nc6 11. Be3 Nd7 12. Qe2 Nc5 13. g5 hxg5 14. hxg5 b5 15. O-O-O Bd7 16. Nxc6 Qxc6 ( 16... Bxc6 17. g6 Nxb3+ 18. axb3 f6 19. Rh1 ) 17. Bd5 exd5 18. exd5 Qc7 19. Bxc5 Qxc5 20. Rge1 O-O-O 21. Qxe7 Bg4 22. Rd2 Bh5 23. Ne4 Qc7 24. Ng3 Bg6 25. f4 Rh3 ) 
+10... Nc6 11. f3 
+( 11. Nxc6 bxc6 ( 11... Qxc6 12. Qf3 d5 13. exd5 exd5 14. g5 Bg4 15. Qg2 hxg5 16. hxg5 Rxh1+ 17. Qxh1 Bb4 18. Kf1 Bxc3 19. bxc3 ) ) 
+11... Bd7 12. Qd2 e5 13. Nf5 Bxf5 14. exf5 
+( 14. gxf5 Na5 15. O-O-O Nxb3+ 16. axb3 b5 17. Rhg1 Kf8 18. Qg2 Rg8 19. Kb1 b4 20. Nd5 Nxd5 21. Rxd5 ) 
+14... O-O-O 15. O-O-O 
+( 15. Nd5 Nxd5 16. Bxd5 ) 
+15... Rhf8 
+( 15... d5 ) 
+16. g5 Ng8 17. Nd5 Qb8 18. Bb6 
+( 18. f6 gxf6 19. gxh6 f5 20. h7 Nf6 21. Nxe7+ Nxe7 22. Bg5 ) 
+( 18. Nb6+ Kc7 ) 
+18... Rd7 19. Qc3 
+( 19. f6 gxf6 20. gxh6 Bd8 21. h7 Nge7 22. Qh6 Rh8 23. Qg7 Nxd5 24. Qxh8 Nxb6 25. Qg7 ) 
+19... Bd8 20. Bf2 
+( 20. Ba4 Ne7 21. Bxc6 Nxc6 22. f6 gxf6 23. gxh6 ) 
+20... Ne7 21. Nxe7+ Rxe7 22. Kb1 Qc7 23. f6 gxf6 24. gxf6 Rd7 25. Qe3 Rh8 26. h5 Bxf6 0-1
+

@@ -1,0 +1,27 @@
+[Site "https://lichess.org/S13JiYbS"]
+[Opening "Grünfeld Defense: Exchange Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[White "BMayushMishra"]
+[BlackElo "1632"]
+[WhiteElo "1638"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.07"]
+[Date "2024.01.07"]
+[TimeControl "300+3"]
+[ECO "D85"]
+[UTCTime "18:18:14"]
+
+1. c4  [%clk 0:05:00]  1... Nf6  [%clk 0:05:00]  2. Nc3  [%clk 0:05:03]  2... g6  [%clk 0:04:44]  3. d4  [%clk 0:05:04]  3... d5  [%clk 0:04:44]  4. cxd5  [%clk 0:05:02]  4... Nxd5  D85 Grünfeld Defense: Exchange Variation  5. e4  [%clk 0:05:04]  5... Nxc3  [%clk 0:04:46]  6. bxc3  [%clk 0:05:06]  6... Bg7  [%clk 0:04:47]  7. e5  [%clk 0:05:08]  7... c5  [%clk 0:04:44]  8. Qa4+  [%clk 0:05:03]  8... Bd7  [%clk 0:04:40]  9. Bb5  [%clk 0:05:04]  
+( 9. Qa3 cxd4 10. cxd4 Nc6 11. Be3 a5 12. Qb2 a4 13. Qd2 Bf5 14. f4 e6 15. Ne2 ) 
+9... Nc6  [%clk 0:04:34]  10. d5  [%clk 0:05:05]  10... Nxe5  [%clk 0:04:29]  11. f4  [%clk 0:05:03]  11... Nd3+  [%clk 0:04:19]  
+( 11... a6 12. fxe5 axb5 13. Qf4 O-O ( 13... Bf5 14. Nf3 Qxd5 15. O-O Ra4 16. Qe3 O-O ) 14. Nf3 Ra4 ) 
+12. Kd2  [%clk 0:05:01]  
+( 12. Ke2 Bxc3 13. Rb1 Nxc1+ 14. Rxc1 Bf6 15. Rxc5 a6 16. Bxd7+ Qxd7 17. Qxd7+ Kxd7 18. Nf3 Rhc8 19. Rhc1 Rxc5 20. Rxc5 Kd6 21. Rc2 Kxd5 ) 
+12... Nf2  [%clk 0:03:47]  13. Ba3  [%clk 0:05:00]  13... a6  [%clk 0:03:19]  14. Bxd7+  [%clk 0:04:56]  14... Qxd7  [%clk 0:03:20]  15. Qxd7+  [%clk 0:04:45]  15... Kxd7  [%clk 0:03:20]  16. Bxc5  [%clk 0:04:44]  16... Ne4+  White resigns.  0-1
+

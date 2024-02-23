@@ -1,0 +1,62 @@
+[Site "https://lichess.org/yO8jUNYf"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-12"]
+[White "PhilZeppelin"]
+[BlackElo "1701"]
+[WhiteElo "1714"]
+[Termination "Normal"]
+[Black "ah2000"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.10"]
+[Date "2024.02.10"]
+[TimeControl "300+3"]
+[ECO "B01"]
+[UTCTime "21:07:39"]
+
+1. e4  [%eval 0.2] [%clk 0:05:00]  1... d5  [%eval 0.57] [%clk 0:05:00]  2. exd5  [%eval 0.66] [%clk 0:05:00]  2... Qxd5  [%eval 0.65] [%clk 0:05:03]  3. Nc3  [%eval 0.6] [%clk 0:05:02]  3... Qd6  B01 Scandinavian Defense: Gubinsky-Melts Defense  4. Nf3  [%eval 0.76] [%clk 0:05:02]  4... Bf5  [%eval 0.96] [%clk 0:05:09]  5. Bc4  [%eval 0.47] [%clk 0:04:53]  
+( 5. d4 ) 
+5... Nd7  [%eval 0.62] [%clk 0:05:10]  6. O-O  [%eval 0.57] [%clk 0:04:46]  6... O-O-O?!  [%eval 1.65] [%clk 0:05:11]  
+( 6... c6 7. Nh4 Bg6 8. d4 Ngf6 9. Re1 e6 10. Nxg6 hxg6 11. g3 O-O-O 12. Bf1 e5 13. Be3 ) 
+7. d3?!  [%eval 1.07] [%clk 0:04:42]  
+( 7. Qe2 Bg4 8. d4 Nh6 9. Ne4 Qc6 10. Neg5 e5 11. h3 Bh5 12. g4 Nxg4 13. hxg4 Bxg4 ) 
+7... e6?  [%eval 2.78] [%clk 0:05:03]  
+( 7... Qg6 8. d4 Nh6 9. Re1 Bg4 10. Bf4 Nf5 11. Bd3 e6 12. Nb5 a6 13. Nxc7 Qf6 14. Bg5 ) 
+8. a4??  [%eval 0.75] [%clk 0:04:17]  
+( 8. Nb5 Qa6 ( 8... Qe7 9. Nxa7+ ) ( 8... Qb6 9. a4 a5 10. Be3 Bc5 11. Bf4 Bd6 12. Nxd6+ cxd6 13. Be3 Nc5 ) 9. Be3 Bc5 10. d4 Bd6 11. a4 Ngf6 12. d5 Bc5 13. Bxc5 Nxc5 14. Qd4 exd5 ) 
+( 8. Bg5 f6 9. Nb5 ) 
+8... a6  [%eval 0.64] [%clk 0:05:03]  9. Bg5  [%eval 0.21] [%clk 0:03:49]  9... Be7  [%eval 0.1] [%clk 0:04:57]  10. Be3  [%eval 0.04] [%clk 0:03:46]  10... h5  [%eval 0.15] [%clk 0:04:56]  11. Ne2?!  [%eval -0.71] [%clk 0:03:17]  
+( 11. Ne4 Bxe4 ) 
+11... f6??  [%eval 1.16] [%clk 0:04:52]  
+( 11... Nh6 12. Qd2 Ng4 13. Bf4 e5 14. Qa5 Bxd3 15. cxd3 exf4 16. d4 Kb8 17. Bxf7 g5 18. Ba2 ) 
+12. Ned4?!  [%eval 0.14] [%clk 0:02:32]  
+( 12. b4 Nb6 13. Bb3 Nh6 14. Bc5 Qd7 15. Bxe7 Qxe7 16. a5 Nd7 17. b5 Nc5 18. bxa6 Nxa6 ) 
+12... g5?  [%eval 1.33] [%clk 0:04:14]  
+( 12... Bg4 13. b4 ) 
+13. Nxf5  [%eval 1.24] [%clk 0:02:28]  13... exf5  [%eval 1.08] [%clk 0:04:16]  14. Nd4?  [%eval -0.46] [%clk 0:02:26]  
+( 14. Re1 Ne5 15. Nxe5 fxe5 16. b4 Nh6 17. Qd2 Kb8 18. Bxg5 Bxg5 19. Qxg5 Rdf8 20. b5 Ng4 ) 
+14... f4  [%eval -0.58] [%clk 0:04:10]  15. Nf5  [%eval -0.48] [%clk 0:02:24]  15... Qe5  [%eval -0.52] [%clk 0:03:53]  16. Nxe7+  [%eval -0.55] [%clk 0:02:14]  16... Nxe7  [%eval -0.45] [%clk 0:03:55]  17. Bd2  [%eval -0.82] [%clk 0:02:11]  17... Qf5?  [%eval 0.37] [%clk 0:03:42]  
+( 17... Qd6 18. Bc3 Nc6 19. d4 Nb6 20. Bf7 Qd7 21. Bb3 Nxd4 22. Qxd4 Qxd4 23. Bxd4 Rxd4 24. h4 ) 
+18. f3??  [%eval -1.33] [%clk 0:01:49]  
+( 18. d4 Nb6 ) 
+18... Ne5  [%eval -1.43] [%clk 0:03:38]  19. Qe2  [%eval -1.5] [%clk 0:01:38]  19... N7g6?!  [%eval -0.82] [%clk 0:03:33]  
+( 19... Qd7 20. Bc3 ) 
+( 19... Nxc4 20. dxc4 Qc5+ 21. Qf2 Qxc4 22. Bc3 Nd5 23. Qa7 Rhe8 24. Qa8+ Kd7 25. Qxb7 Qc5+ 26. Kh1 Qc6 27. Qxc6+ Kxc6 ) 
+20. Bc3  [%eval -0.91] [%clk 0:01:28]  20... Rde8  [%eval -0.64] [%clk 0:03:34]  21. Qf2  [%eval -0.86] [%clk 0:01:02]  21... Nxc4  [%eval -0.54] [%clk 0:03:14]  22. dxc4  [%eval -0.52] [%clk 0:01:03]  22... g4??  [%eval 2.5] [%clk 0:03:05]  
+( 22... Re3 23. Rae1 ) 
+23. Qa7  [%eval 2.17] [%clk 0:00:57]  23... gxf3??  [%eval 5.87] [%clk 0:02:27]  
+( 23... Qe6 24. Qa8+ Kd7 25. Qxb7 Qb6+ 26. Qxb6 cxb6 27. Bxf6 Rhf8 28. Bd4 g3 29. Rfe1 Kc6 30. Rad1 ) 
+24. Rad1  [%eval 5.37] [%clk 0:00:43]  24... c6  [%eval 4.82] [%clk 0:02:03]  25. Qa8+??  [%eval -2.4] [%clk 0:00:33]  
+( 25. Rxf3 Rd8 26. Rfd3 Rxd3 27. Rxd3 f3 28. Rxf3 Qe4 29. Qa8+ Kc7 30. Ba5+ Kd6 31. Qxb7 Ke6 ) 
+( 25. c5 ) 
+25... Kc7  [%eval -2.57] [%clk 0:02:05]  26. Ba5+??  [%eval -6.58] [%clk 0:00:35]  
+( 26. Qa7 Ra8 27. Qf2 fxg2 28. Rfe1 Rhe8 29. Qxg2 Rad8 30. b4 Rxd1 31. Rxd1 Kc8 32. b5 Nh4 ) 
+26... b6??  [%eval #7] [%clk 0:01:58]  
+( 26... Qxa5 27. Rd7+ Kxd7 28. Qxb7+ Ke6 29. Qxc6+ Kf7 30. Qxf3 Qc5+ 31. Kh1 Ne5 32. Qf2 Qxf2 33. Rxf2 ) 
+27. Qa7+  [%eval #6] [%clk 0:00:31]  27... Kc8  [%eval #6] [%clk 0:02:00]  28. Bxb6  [%eval #9] [%clk 0:00:27]  
+( 28. Qxa6+ Kb8 29. Qxb6+ ) 
+28... f2+  [%eval #4] [%clk 0:01:38]  29. Kh1  [%eval #3] [%clk 0:00:10]  29... Re7  [%eval #1] [%clk 0:01:38]  30. Qa8#  White wins by checkmate.  1-0
+

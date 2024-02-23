@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yEKeiR8n"]
+[Date "2023.12.09"]
+[White "pafke"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[UTCDate "2023.12.09"]
+[UTCTime "17:17:19"]
+[WhiteElo "1605"]
+[BlackElo "1607"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack, Tal Gambit"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. Nc3 Nxd5 5. Nxd5 Qxd5 6. Nf3 Nc6 7. d3 Bg4 8. Be2 e6 9. O-O Be7 10. c4 Qh5 11. h3 Bxf3 12. Bxf3 Qh4 13. Bxc6+ bxc6 14. Qf3 O-O 15. b3 Bf6 16. Rb1 Bd4+ 17. Kh1 Rac8 18. Bb2 Rfd8 19. Rfe1 Qf6 20. Bxd4 Qxd4 21. Rbd1 a5 22. Re4 Qb2 23. Qe2 Qxe2 24. Rxe2 Rd4 25. Re4 Rd6 26. g3 Rcd8 27. Re3 h5 28. Kg2 a4 29. Kf3 h4 30. g4 Rd4 31. g5 a3 32. Ke2 Rxf4 33. Rf1 Rfd4 34. Kd2 R8d7 35. Kc3 Kh7 36. Rd1 Kg6 37. Re5 1-0
+
+

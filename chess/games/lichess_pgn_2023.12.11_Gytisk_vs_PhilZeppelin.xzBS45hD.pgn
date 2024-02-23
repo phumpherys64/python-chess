@@ -1,0 +1,35 @@
+[Site "https://lichess.org/xzBS45hD"]
+[Opening "English Opening: Symmetrical Variation, Duchamp Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[White "Gytisk"]
+[BlackElo "1591"]
+[WhiteElo "1709"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.11"]
+[Date "2023.12.11"]
+[TimeControl "300+3"]
+[ECO "A38"]
+[UTCTime "20:11:48"]
+
+1. c4  [%clk 0:05:00]  1... Nf6  [%clk 0:05:00]  2. Nc3  [%clk 0:05:03]  2... g6  [%clk 0:04:54]  3. Nf3  [%clk 0:05:05]  3... Bg7  [%clk 0:04:51]  4. g3  [%clk 0:05:07]  4... O-O  [%clk 0:04:45]  5. Bg2  [%clk 0:05:01]  5... c5  [%clk 0:04:46]  6. O-O  [%clk 0:05:03]  6... Nc6  [%clk 0:04:46]  
+( 6... d5 7. cxd5 Nxd5 8. Nxd5 Qxd5 ) 
+7. d3  A38 English Opening: Symmetrical Variation, Duchamp Variation  7... e5  [%clk 0:04:39]  8. Bd2  [%clk 0:05:04]  8... d5  [%clk 0:04:31]  9. Rb1  [%clk 0:05:06]  
+( 9. cxd5 ) 
+9... e4  [%clk 0:04:09]  10. dxe4  [%clk 0:04:59]  10... dxe4  [%clk 0:04:10]  11. Ng5  [%clk 0:04:58]  11... Bf5  [%clk 0:03:23]  12. Ngxe4  [%clk 0:04:42]  12... Nxe4  [%clk 0:03:14]  13. Nxe4  [%clk 0:04:42]  13... Re8  [%clk 0:03:08]  14. f3  [%clk 0:04:42]  14... Ne5  [%clk 0:01:55]  
+( 14... Qd4+ 15. e3 Qxc4 16. Nd6 Qxa2 17. e4 Be6 18. Nxe8 Rxe8 ) 
+15. b3  [%clk 0:04:31]  15... a5  [%clk 0:00:48]  
+( 15... Qd4+ 16. e3 ( 16. Kh1 Bxe4 17. fxe4 Ng4 ) 16... Qd3 ) 
+16. Rc1  [%clk 0:04:21]  16... a4  [%clk 0:00:34]  
+( 16... Bxe4 17. fxe4 Qd4+ 18. e3 Qd3 ) 
+17. Nxc5  [%clk 0:04:17]  17... Qd4+  [%clk 0:00:33]  18. Kh1  [%clk 0:03:58]  18... Qxc5  [%clk 0:00:34]  19. f4  [%clk 0:03:53]  19... Ng4  [%clk 0:00:31]  20. e3  [%clk 0:03:45]  20... Bb2  [%clk 0:00:18]  
+( 20... Rad8 ) 
+21. h3  [%clk 0:03:29]  21... Bxc1  [%clk 0:00:18]  
+( 21... Nxe3 22. Bxe3 Rxe3 ( 22... Qxe3 ) ) 
+22. hxg4  [%clk 0:03:27]  22... Bxd2  [%clk 0:00:18]  23. Qxd2  [%clk 0:03:26]  23... Rad8  [%clk 0:00:16]  24. Qb2  [%clk 0:03:22]  24... Be4  [%clk 0:00:14]  25. Bxe4  White resigns.  0-1
+

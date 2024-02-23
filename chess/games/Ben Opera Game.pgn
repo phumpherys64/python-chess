@@ -1,0 +1,31 @@
+[Result "1-0"]
+[Round "1"]
+[Date "2023.12.10"]
+[Event "?"]
+[Black "?"]
+[Site "Earth"]
+[White "?"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 b5 5. Bb3 a5 6. a4 bxa4 7. Rxa4 Bxa4 
+( 7... g6 ) 
+( 7... c6 ) 
+8. Bxa4+ Nbd7 
+( 8... c6 9. dxc6 ) 
+( 8... Nfd7 9. Qe2 Ra6 ( 9... g6 ) ) 
+9. Nf3 Nxd5 
+( 9... g6 ) 
+( 9... Ra6 ) 
+10. Ne5 Nb6 
+( 10... Nf6 11. Qf3 ) 
+( 10... c6 11. Bxc6 Nf6 12. Qf3 Ra7 13. Nc3 ) 
+11. Qf3 f6 
+( 11... Qb8 12. Qxf7+ Kd8 13. Nc6+ ) 
+12. Qh5+ g6 13. Nxg6 Kf7 
+( 13... Qb8 ) 
+( 13... e5 ) 
+( 13... Rg8 ) 
+( 13... e6 ) 
+14. Bb3+ e6 15. Ne5+ Ke7 16. Qf7+ Kd6 17. Qxe6+ Kc5 18. Qc6+ Kb4 
+( 18... Kd4 19. Nf3# ) 
+19. Nd3# 1-0
+

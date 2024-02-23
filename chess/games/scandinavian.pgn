@@ -1,0 +1,28 @@
+[Site "https://lichess.org/MgXFLiiA"]
+[Opening "Scandinavian Defense: Main Line"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1560"]
+[WhiteElo "1583"]
+[Termination "Normal"]
+[Black "yaseralhmsy"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.19"]
+[Date "2023.12.19"]
+[TimeControl "300+3"]
+[ECO "B01"]
+[UTCTime "18:14:05"]
+
+1. e4  [%clk 0:05:00]  1... d5  [%clk 0:05:00]  2. exd5  [%clk 0:04:24]  2... Qxd5  [%clk 0:05:01]  3. Nc3  [%clk 0:04:24]  3... Qa5  B01 Scandinavian Defense: Main Line  4. Nf3  [%clk 0:04:25]  4... Bg4  [%clk 0:05:03]  5. h3  [%clk 0:04:25]  5... Bh5  [%clk 0:05:01]  6. g4  [%clk 0:04:26]  
+( 6. b4 Qb6 7. g4 Bg6 8. Rb1 ( 8. Bg2 ) ) 
+6... Bg6  [%clk 0:05:01]  7. b4  [%clk 0:04:26]  7... Qxb4  [%clk 0:04:57]  
+( 7... Qb6 8. Bg2 ( 8. Rb1 ) ( 8. a4 ) 8... e6 9. Rb1 ( 9. Ne5 ) ( 9. O-O ) ) 
+8. Rb1  [%clk 0:04:25]  8... Qa5  [%clk 0:04:37]  
+( 8... Qd6 9. Rxb7 Nd7 ( 9... Nf6 10. Nb5 Qc6 ( 10... Qe6+ 11. Be2 ( 11. Qe2 Qe4 12. Rxc7 Nbd7 13. Rc4 Qxe2+ 14. Bxe2 Kd8 15. Nfd4 ) ) 11. Rxc7 ) 10. Nb5 Qc6 11. Rxc7 Qe6+ 12. Be2 Qb6 13. Nfd4 e5 14. Bf3 ( 14. Rc6 Qb8 15. Nb3 Bb4 16. O-O ) 14... e4 15. Be2 ) 
+( 8... Qc5 9. Rxb7 e6 ( 9... Nd7 10. Rb3 ) 10. Rb3 c6 11. Bg2 Nd7 ) 
+9. Rxb7  [%clk 0:03:40]  9... Nf6  [%clk 0:04:33]  10. Rb5  [%clk 0:03:12]  10... Qa6  [%clk 0:04:12]  11. Rxb8+  [%clk 0:03:12]  11... Rxb8  [%clk 0:04:06]  12. Bxa6  [%clk 0:03:11]  12... e6  [%clk 0:04:05]  13. Bb5+  [%clk 0:02:57]  13... Kd8  [%clk 0:03:40]  14. Ne5  [%clk 0:02:53]  14... Bd6  [%clk 0:03:32]  15. Nc6+  [%clk 0:02:50]  15... Kc8  [%clk 0:03:29]  16. Nxb8  [%clk 0:02:44]  16... Kxb8  [%clk 0:03:30]  17. Qf3  [%clk 0:02:39]  17... Kc8  [%clk 0:02:54]  18. Qa8#  White wins by checkmate.  1-0
+

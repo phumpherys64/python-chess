@@ -1,0 +1,37 @@
+[Site "https://lichess.org/SX2sk660"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[White "PhilZeppelin"]
+[BlackElo "1710"]
+[WhiteElo "1711"]
+[Termination "Time forfeit"]
+[Black "Wertalet"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.22"]
+[Date "2024.01.22"]
+[TimeControl "300+3"]
+[ECO "C07"]
+[UTCTime "20:02:34"]
+
+1. e4  [%clk 0:05:00]  1... e6  [%clk 0:05:00]  2. d4  [%clk 0:05:01]  2... d5  [%clk 0:05:03]  3. Nd2  [%clk 0:04:59]  3... c5  [%clk 0:05:02]  4. Ngf3  C07 French Defense: Tarrasch Variation, Open System, Euwe-Keres Line  4... c4  [%clk 0:05:03]  5. c3  [%clk 0:04:36]  5... b5  [%clk 0:04:47]  6. b3  [%clk 0:04:30]  
+( 6. a4 b4 ( 6... Qa5 7. b4 Qa6 8. Ne5 ) 7. exd5 exd5 8. Nxc4 dxc4 9. Bxc4 Ba6 10. Qe2+ Qe7 11. Bb5+ Bxb5 12. axb5 Qxe2+ 13. Kxe2 bxc3 14. bxc3 Ne7 15. c4 ) 
+6... a6  [%clk 0:04:33]  7. a4  [%clk 0:04:27]  7... Bb7  [%clk 0:04:34]  8. e5  [%clk 0:04:23]  
+( 8. bxc4 bxc4 9. Rb1 ) 
+8... Nc6  [%clk 0:04:19]  9. axb5  [%clk 0:04:20]  
+( 9. Be2 ) 
+9... axb5  [%clk 0:04:19]  10. Rxa8  [%clk 0:04:19]  10... Bxa8  [%clk 0:04:21]  11. bxc4  [%clk 0:04:12]  
+( 11. Be2 ) 
+11... bxc4  [%clk 0:04:23]  12. Qa4  [%clk 0:04:13]  12... Nh6  [%clk 0:03:30]  13. Be2  [%clk 0:04:00]  13... Be7  [%clk 0:03:23]  14. Ba3  [%clk 0:03:46]  14... O-O  [%clk 0:03:14]  15. O-O  [%clk 0:03:37]  15... Bxa3  [%clk 0:03:09]  16. Qxa3  [%clk 0:03:37]  16... Nf5  [%clk 0:03:05]  17. Ra1  [%clk 0:03:26]  17... Nfe7  [%clk 0:02:58]  18. Bd1  [%clk 0:03:18]  18... Re8  [%clk 0:02:35]  19. Ba4  [%clk 0:02:57]  
+( 19. h4 ) 
+19... Qc7  [%clk 0:02:19]  20. Qc5  [%clk 0:02:49]  
+( 20. Bc2 ) 
+20... Bb7  [%clk 0:02:15]  21. Nb1  [%clk 0:02:34]  21... Ra8  [%clk 0:02:09]  22. Ra3  [%clk 0:02:19]  22... h6  [%clk 0:01:41]  23. Bxc6  [%clk 0:01:58]  23... Rxa3  [%clk 0:01:28]  24. Nxa3  [%clk 0:01:55]  24... Nxc6  [%clk 0:01:02]  25. Nb5  [%clk 0:01:39]  25... Qa5  [%clk 0:00:54]  26. h3  [%clk 0:01:28]  26... Ba6  [%clk 0:00:28]  27. Nd6  [%clk 0:00:34]  27... Qxc5  [%clk 0:00:18]  28. dxc5  [%clk 0:00:35]  28... Na5  [%clk 0:00:14]  29. Nd4  [%clk 0:00:32]  29... Nb3  [%clk 0:00:13]  30. c6  [%clk 0:00:30]  30... Nd2  [%clk 0:00:06]  
+( 30... Nxd4 31. cxd4 c3 ) 
+31. c7  [%clk 0:00:25]  31... Nb3  [%clk 0:00:06]  32. N4b5  White wins on time.  
+( 32. Nc6 ) 
+1-0
+

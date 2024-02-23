@@ -1,0 +1,32 @@
+[Site "Weissenhaus, Germany"]
+[Annotator "https://lichess.org/@/AAArmstark"]
+[Round "7.2"]
+[WhiteTitle "GM"]
+[FEN "qnrknrbb/pppppppp/8/8/8/8/PPPPPPPP/QNRKNRBB w KQkq - 0 1"]
+[White "Abdusattorov, Nodirbek"]
+[SetUp "1"]
+[BlackElo "2830"]
+[WhiteElo "2744"]
+[BlackTitle "GM"]
+[Result "1-0"]
+[Event "Freestyle Chess G.O.A.T. Challenge Rapid"]
+[Black "Carlsen, Magnus"]
+[Variant "Chess960"]
+[Opening "?"]
+[Date "2024.02.10"]
+[WhiteFideId "14204118"]
+[BlackFideId "1503014"]
+[ECO "?"]
+
+1. f4  [%eval 0.11] [%clk 0:25:17]  1... g6  [%eval 0.17] [%clk 0:24:56]  2. g3  [%eval 0.11] [%clk 0:25:20]  2... f5  [%eval 0.16] [%clk 0:24:08]  3. a4  [%eval 0.0] [%clk 0:25:23]  3... Nf6  [%eval 0.25] [%clk 0:23:54]  4. a5  [%eval 0.1] [%clk 0:24:38]  4... Bd5  [%eval 0.5] [%clk 0:23:30]  5. Nf3  [%eval 0.27] [%clk 0:23:49]  5... b5  [%eval 0.22] [%clk 0:23:29]  6. axb6  [%eval 0.14] [%clk 0:22:38]  6... cxb6?!  [%clk 0:21:39]  
+( 6... axb6 7. Nc3 Qxa1 8. Rxa1 Bb7 9. d3 Na6 10. Kd2 Ra8 11. Ra2 ) 
+7. Nc3  [%eval 0.84] [%clk 0:22:45]  7... Bc6  [%eval 0.74] [%clk 0:21:47]  8. Qa2  [%eval 0.85] [%clk 0:20:17]  8... Qb7  [%eval 0.75] [%clk 0:21:51]  9. Ra1  [%eval 0.68] [%clk 0:19:36]  9... a6  [%eval 0.72] [%clk 0:21:10]  10. Na4  [%eval 0.71] [%clk 0:19:38]  10... Bxa4  [%eval 1.25] [%clk 0:19:39]  11. Qxa4  [%eval 1.24] [%clk 0:19:46]  11... b5  [%eval 1.33] [%clk 0:19:39]  12. Qa5+  [%eval 1.33] [%clk 0:18:30]  12... Ke8  [%eval 1.3] [%clk 0:19:48]  13. Bd4  [%eval 0.97] [%clk 0:17:35]  13... Ne4  [%eval 0.97] [%clk 0:19:12]  14. Bxh8  [%eval 0.88] [%clk 0:15:40]  14... Rxh8  [%eval 0.94] [%clk 0:19:19]  15. d3  [%eval 0.79] [%clk 0:15:20]  15... Nf6  [%eval 0.87] [%clk 0:19:05]  16. Nd4  [%eval 0.54] [%clk 0:14:30]  16... Qc7  [%eval 0.96] [%clk 0:19:09]  17. Qxc7  [%eval 0.95] [%clk 0:14:25]  17... Rxc7  [%eval 0.78] [%clk 0:19:18]  18. Kd2  [%eval 0.95] [%clk 0:14:18]  18... e6  [%eval 1.08] [%clk 0:19:12]  19. c3  [%eval 0.81] [%clk 0:14:09]  19... Ke7  [%eval 0.81] [%clk 0:19:19]  20. Nc2  [%eval 0.84] [%clk 0:14:17]  20... Ra7  [%eval 1.07] [%clk 0:17:29]  21. Ra5  [%eval 1.13] [%clk 0:13:46]  21... Nc6  [%eval 1.63] [%clk 0:16:23]  22. Bxc6  [%eval 1.76] [%clk 0:13:41]  22... dxc6  [%eval 1.74] [%clk 0:16:32]  23. Nb4  [%eval 1.85] [%clk 0:12:38]  23... Kd6  [%eval 1.78] [%clk 0:16:40]  24. Rfa1  [%eval 1.88] [%clk 0:12:45]  24... Rha8  [%eval 1.95] [%clk 0:16:48]  25. Nxa6  [%eval 1.89] [%clk 0:12:34]  25... Ng4  [%eval 1.96] [%clk 0:16:37]  26. h3  [%eval 2.01] [%clk 0:11:36]  26... Nf2  [%eval 1.88] [%clk 0:15:53]  27. h4  [%eval 1.72] [%clk 0:10:35]  27... Nh1  [%eval 1.82] [%clk 0:16:01]  28. Rxh1  [%eval 1.96] [%clk 0:08:56]  28... Rxa6  [%eval 1.97] [%clk 0:16:05]  29. Rxa6  [%eval 1.98] [%clk 0:09:03]  29... Rxa6  [%eval 2.04] [%clk 0:16:14]  30. h5  [%eval 1.85] [%clk 0:09:11]  30... gxh5  [%eval 2.14] [%clk 0:16:02]  31. Rxh5  [%eval 2.22] [%clk 0:09:19]  31... Ra2  [%eval 2.54] [%clk 0:16:11]  32. Kc2  [%eval 2.11] [%clk 0:09:17]  32... Ra7  [%eval 2.36] [%clk 0:16:19]  33. e4  [%eval 2.64] [%clk 0:07:34]  33... Rg7  [%eval 2.49] [%clk 0:16:28]  34. Rh3  [%eval 2.22] [%clk 0:07:32]  
+( 34. Rh6 fxe4 35. dxe4 Ke7 36. Rh3 ) 
+34... c5  [%eval 2.26] [%clk 0:16:20]  35. Kd2  [%eval 2.27] [%clk 0:07:18]  35... c4  [%eval 2.87] [%clk 0:15:56]  36. dxc4  [%eval 3.15] [%clk 0:07:07]  36... bxc4  [%eval 2.57] [%clk 0:16:05]  37. Ke3  [%eval 2.53] [%clk 0:07:16]  37... Kc5  [%eval 2.82] [%clk 0:15:35]  38. Kf3  [%eval 2.35] [%clk 0:06:32]  38... Rd7  [%eval 2.75] [%clk 0:15:44]  39. exf5  [%eval 3.41] [%clk 0:06:40]  39... exf5  [%eval 3.14] [%clk 0:15:53]  40. Rh5  [%eval 2.71] [%clk 0:06:49]  40... Rd3+  [%eval 2.7] [%clk 0:16:01]  41. Kg2  [%eval 2.9] [%clk 0:06:47]  41... Rd2+  [%eval 3.08] [%clk 0:16:09]  42. Kh3??  [%clk 0:06:44]  
+( 42. Kf3 Rd3+ 43. Ke2 Rxg3 44. Rxf5+ ) 
+42... Rxb2  [%eval 0.33] [%clk 0:16:18]  43. Rxf5+  [%eval 0.24] [%clk 0:05:37]  43... Kd6  [%eval 0.29] [%clk 0:16:23]  44. Re5  [%eval 0.26] [%clk 0:04:56]  44... Rd2  [%eval 0.27] [%clk 0:16:31]  45. Re4  [%eval 0.28] [%clk 0:03:43]  45... Kd5  [%eval 0.25] [%clk 0:16:38]  46. Re7  [%eval 0.17] [%clk 0:03:53]  46... Rd3  [%eval 0.2] [%clk 0:16:31]  47. Rxh7  [%eval 0.14] [%clk 0:03:59]  47... Rxc3  [%eval 0.13] [%clk 0:16:39]  48. Kg4  [%eval 0.05] [%clk 0:04:05]  48... Re3  [%eval 0.16] [%clk 0:16:19]  49. Rd7+  [%eval 0.14] [%clk 0:03:11]  49... Kc6  [%eval 0.16] [%clk 0:15:59]  50. Rd4  [%eval 0.1] [%clk 0:02:12]  50... c3??  [%clk 0:15:48]  
+( 50... Kc5 51. Rd8 Rd3 52. Rc8+ Kd5 53. Kh4 Rf3 54. Rc7 Kd4 55. Kg4 Rf1 56. Kf5 Kd3 57. Ke5 ) 
+51. f5  [%eval 2.55] [%clk 0:02:07]  51... Kc5  [%eval 2.75] [%clk 0:11:37]  52. Rd8  [%eval 2.77] [%clk 0:02:13]  52... Re4+?!  [%clk 0:11:45]  
+( 52... Re2 53. Rc8+ Kb4 54. f6 Rf2 55. Kg5 Kb3 56. g4 c2 57. Kg6 Rf4 58. Rxc2 Kxc2 59. g5 ) 
+53. Kh5  [%eval 4.31] [%clk 0:02:22]  53... Re5  [%eval 3.26] [%clk 0:08:58]  54. g4  [%eval 4.23] [%clk 0:01:42]  54... Kc4  [%eval 4.3] [%clk 0:08:46]  55. Rd1  [%eval 4.78] [%clk 0:01:26]  55... c2  [%eval 5.57] [%clk 0:08:54]  56. Rc1  [%eval 5.7] [%clk 0:01:26]  56... Kd3  [%eval 5.66] [%clk 0:09:02]  57. Kg6  [%eval 5.78] [%clk 0:01:20]  57... Kd2  [%eval 6.4] [%clk 0:08:54]  58. Rxc2+  [%eval 6.62] [%clk 0:01:29]  58... Kxc2  [%eval 6.52] [%clk 0:09:03]  59. f6  [%eval 6.46] [%clk 0:01:37]  59... Re3  [%eval 7.03] [%clk 0:08:18]  60. g5  [%eval 6.98] [%clk 0:01:17]  60... Kd3  [%eval 6.87] [%clk 0:08:20]  61. f7  [%eval 7.36] [%clk 0:01:18]  61... Rf3  [%eval 7.77] [%clk 0:08:24]  62. Kg7  [%eval 7.32] [%clk 0:01:27]  62... Ke4  [%eval 8.08] [%clk 0:08:33]  63. g6  [%eval 8.07] [%clk 0:01:37]  63... Kd5  [%eval 58.92]  1-0
+

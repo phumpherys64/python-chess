@@ -1,0 +1,32 @@
+[Site "https://lichess.org/OCMWhA2O"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[White "smarlny"]
+[BlackElo "1722"]
+[WhiteElo "1722"]
+[Termination "Time forfeit"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.25"]
+[Date "2024.01.25"]
+[TimeControl "300+3"]
+[ECO "B96"]
+[UTCTime "17:34:44"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:01]  2... d6  [%clk 0:05:01]  3. d4  [%clk 0:05:01]  3... cxd4  [%clk 0:04:56]  4. Nxd4  [%clk 0:05:03]  4... Nf6  [%clk 0:04:58]  5. Nc3  [%clk 0:05:03]  5... a6  [%clk 0:04:43]  6. Bg5  [%clk 0:04:55]  6... e6  [%clk 0:04:40]  7. f4  B96 Sicilian Defense: Najdorf Variation  7... h6  [%clk 0:04:40]  8. Bh4  [%clk 0:04:55]  8... Qb6  [%clk 0:04:30]  9. Qd2  [%clk 0:04:54]  
+( 9. Nb3 Qe3+ 10. Be2 ( 10. Qe2 Qxf4 11. Bg3 Qg5 12. Qf3 e5 13. h4 Qh5 14. Qxh5 ( 14. Nd5 Qxf3 15. gxf3 Nxd5 16. exd5 Nd7 17. O-O-O Be7 ) 14... Nxh5 15. Bf2 Nf6 ) 10... Nxe4 11. Nxe4 Qxf4 12. Nxd6+ Bxd6 13. Bg3 Qb4+ 14. c3 Bxg3+ 15. hxg3 Qe7 16. Qd2 O-O 17. O-O-O b5 ) 
+9... Qxb2  [%clk 0:04:25]  10. Rb1  [%clk 0:04:53]  
+( 10. Nb3 ) 
+10... Qa3  [%clk 0:04:22]  11. Bxf6  [%clk 0:04:43]  11... gxf6  [%clk 0:04:22]  12. f5  [%clk 0:04:28]  12... Nc6  [%clk 0:04:08]  13. Rb3  [%clk 0:03:41]  13... Qa5  [%clk 0:03:52]  14. Be2  [%clk 0:03:20]  14... Nxd4  [%clk 0:02:57]  15. Qxd4  [%clk 0:03:19]  15... Be7  [%clk 0:02:46]  
+( 15... Qe5 16. Qa4+ ( 16. Qxe5 dxe5 17. fxe6 fxe6 18. Bh5+ Ke7 ( 18... Kd8 19. Na4 b5 20. Nb6 Rb8 21. Rd3+ Kc7 22. Nxc8 Rxc8 23. Bf7 Kb6 24. Kd1 ) 19. O-O Kd8 20. Rxf6 b5 21. Kf1 Bd7 22. Nd1 Bc5 23. Ke1 ) 16... Kd8 17. Bh5 Bd7 18. Qb4 b5 19. Qa5+ Ke7 20. O-O Bg7 21. Re1 ) 
+16. g4  [%clk 0:02:31]  
+( 16. Qa4+ Qxa4 17. Nxa4 b5 18. Nb6 Rb8 19. Nxc8 Rxc8 20. Kd2 Rg8 ) 
+16... Qe5  [%clk 0:01:59]  17. Qd2  [%clk 0:02:04]  17... b5  [%clk 0:01:42]  18. O-O  [%clk 0:00:52]  18... h5  [%clk 0:01:03]  19. gxh5  [%clk 0:00:27]  19... Bb7  [%clk 0:00:26]  20. Bf3  [%clk 0:00:27]  20... exf5  [%clk 0:00:12]  
+( 20... Rc8 ) 
+( 20... Rg8+ 21. Kh1 Rc8 ) 
+21. exf5  [%clk 0:00:21]  21... Rg8+  [%clk 0:00:12]  22. Kh1  [%clk 0:00:19]  22... Bxf3+  [%clk 0:00:10]  23. Rxf3  White wins on time.  1-0
+

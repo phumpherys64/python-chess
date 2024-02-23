@@ -1,0 +1,51 @@
+[Site "https://lichess.org/YKgjMayl"]
+[Opening "Scotch Game"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1671"]
+[WhiteElo "1641"]
+[Termination "Normal"]
+[Black "vinerbi"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.06"]
+[Date "2023.12.06"]
+[TimeControl "300+3"]
+[ECO "C45"]
+[UTCTime "18:14:23"]
+
+1. e4  [%eval 0.36] [%clk 0:05:00]  1... Nc6  [%eval 0.51] [%clk 0:05:00]  2. Nf3  [%eval 0.21] [%clk 0:04:59]  2... e5  [%eval 0.32] [%clk 0:05:02]  3. d4  [%eval 0.13] [%clk 0:05:01]  3... exd4  [%eval 0.13] [%clk 0:05:01]  4. Nxd4  C45 Scotch Game  4... Nxd4?!  [%eval 0.64] [%clk 0:05:01]  
+( 4... Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O ) 
+5. Qxd4  [%eval 0.77] [%clk 0:05:02]  5... Qf6  [%eval 0.67] [%clk 0:05:03]  6. e5  [%eval 0.67] [%clk 0:05:01]  
+( 6. Qc4 Bd6 7. Nc3 Ne7 8. Nb5 Nc6 9. Nxd6+ Qxd6 10. Bd2 b6 11. O-O-O Bb7 12. h4 ) 
+6... Qb6  [%eval 0.69] [%clk 0:05:00]  7. Be3  [%eval 0.33] [%clk 0:04:54]  7... Qxd4  [%eval 0.58] [%clk 0:04:58]  8. Bxd4  [%eval 0.5] [%clk 0:04:54]  8... d5?  [%eval 1.82] [%clk 0:05:00]  
+( 8... b6 ) 
+9. exd6  [%eval 1.44] [%clk 0:04:44]  9... cxd6?!  [%eval 2.17] [%clk 0:04:58]  
+( 9... c6 10. c4 b6 11. c5 Be6 12. Nd2 bxc5 13. Bxc5 Nf6 14. O-O-O O-O-O 15. Nc4 Ne4 16. Bxa7 ) 
+10. Bb5+?!  [%eval 1.53] [%clk 0:04:34]  
+( 10. Nc3 Be6 11. Nb5 Kd7 12. Bxa7 Ne7 13. a4 Nd5 14. Bd4 Nb4 15. Kd2 Be7 16. Bxg7 Rhc8 ) 
+10... Bd7  [%eval 1.54] [%clk 0:04:58]  11. Nc3  [%eval 1.67] [%clk 0:04:32]  11... a6  [%eval 1.8] [%clk 0:04:56]  12. Bxd7+  [%eval 1.34] [%clk 0:04:19]  
+( 12. Nd5 Bxb5 13. Nc7+ Kd8 14. Nxa8 ) 
+12... Kxd7  [%eval 1.27] [%clk 0:04:56]  13. Nd5?!  [%eval 0.59] [%clk 0:04:21]  
+( 13. O-O-O Re8 ) 
+13... Re8+  [%eval 0.74] [%clk 0:04:50]  14. Be3  [%eval 0.21] [%clk 0:04:10]  14... Re5  [%eval 0.64] [%clk 0:04:49]  15. O-O-O  [%eval 0.62] [%clk 0:04:07]  15... Nf6  [%eval 1.17] [%clk 0:04:44]  16. Nxf6+  [%eval 1.01] [%clk 0:03:31]  16... gxf6  [%eval 0.93] [%clk 0:04:47]  17. Rd3  [%eval 0.92] [%clk 0:03:22]  17... Rg8  [%eval 1.14] [%clk 0:04:35]  18. g3  [%eval 1.25] [%clk 0:03:17]  18... Rg6  [%eval 1.41] [%clk 0:03:58]  19. Rhd1  [%eval 1.48] [%clk 0:03:12]  19... Re6?!  [%eval 2.49] [%clk 0:03:50]  
+( 19... f5 20. Rb3 Kc8 21. a4 Bh6 22. f4 Re4 23. Rd5 Rxa4 24. Kb1 Rf6 25. Rbd3 Kd7 26. Bd2 ) 
+20. Kb1?!  [%eval 1.57] [%clk 0:02:50]  
+( 20. Rb3 b5 21. Ra3 Bh6 22. f4 b4 23. Rb3 Rg8 24. a3 bxa3 25. Rxa3 Ra8 26. Rd5 Bg7 ) 
+20... Rg4?!  [%eval 2.47] [%clk 0:03:37]  
+( 20... Bh6 ) 
+21. f4?!  [%eval 1.48] [%clk 0:02:23]  
+( 21. Rb3 Kc7 22. Rc3+ Kb8 23. Bf4 f5 24. a3 Bg7 25. Rf3 Rgg6 26. Rd5 Re1+ 27. Ka2 Be5 ) 
+21... Kc6??  [%eval 3.53] [%clk 0:03:19]  
+( 21... h5 22. Rb3 b5 23. f5 Ree4 24. Bf4 Rc4 25. Rbd3 Rc6 26. b4 Rg8 27. a3 Be7 28. Kb2 ) 
+22. Rc3+  [%eval 3.25] [%clk 0:02:04]  22... Kd7  [%eval 3.76] [%clk 0:03:16]  23. Bc5?  [%eval 2.0] [%clk 0:02:01]  
+( 23. Bb6 Re4 24. Rc7+ Ke6 25. Rxb7 h5 26. Ra7 h4 27. Rxa6 hxg3 28. hxg3 Rxg3 29. a4 Kf5 ) 
+23... b5?!  [%eval 2.75] [%clk 0:02:56]  
+( 23... Be7 24. Bb6 Bd8 25. Bxd8 Kxd8 26. a4 Kd7 27. Rb3 Kc6 28. a5 Kc7 29. Rd5 Rg8 30. Rbd3 ) 
+24. Bb6  [%eval 2.92] [%clk 0:02:00]  24... Re2  [%eval 3.35] [%clk 0:02:44]  25. h3  [%eval 3.28] [%clk 0:01:43]  25... Rxg3?  [%eval 5.9] [%clk 0:02:40]  
+( 25... Rg8 26. f5 Re4 27. Rc7+ Ke8 28. a3 Rxg3 29. Rc8+ Ke7 30. Bc7 Kd7 31. Rxf8 Kxc7 32. Rxf7+ ) 
+26. Rxg3  Black resigns.  1-0
+

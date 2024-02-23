@@ -1,0 +1,31 @@
+[Site "https://lichess.org/fEQCYpSf"]
+[Opening "Scotch Game: Classical Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[White "PhilZeppelin"]
+[BlackElo "1633"]
+[WhiteElo "1709"]
+[Termination "Normal"]
+[Black "Pyushkin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.16"]
+[Date "2024.01.16"]
+[TimeControl "300+3"]
+[ECO "C45"]
+[UTCTime "21:16:28"]
+
+1. e4  [%clk 0:05:00]  1... e5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:01]  2... Nc6  [%clk 0:05:02]  3. d4  [%clk 0:05:03]  3... exd4  [%clk 0:05:02]  4. Nxd4  [%clk 0:05:04]  4... Bc5  C45 Scotch Game: Classical Variation  5. Be3  [%clk 0:05:04]  5... Bxd4  [%clk 0:05:05]  6. Bxd4  [%clk 0:05:06]  6... Nxd4  [%clk 0:05:08]  7. Qxd4  [%clk 0:05:07]  7... Qf6  [%clk 0:05:10]  8. e5  [%clk 0:05:07]  8... Qb6  [%clk 0:05:12]  9. Qxb6  [%clk 0:05:07]  9... axb6  [%clk 0:05:15]  10. Nc3  [%clk 0:05:09]  10... f6  [%clk 0:05:18]  11. Nd5  [%clk 0:05:06]  11... Kd8  [%clk 0:05:05]  12. exf6  [%clk 0:04:49]  12... Nxf6  [%clk 0:05:07]  13. Nxf6  [%clk 0:04:51]  13... gxf6  [%clk 0:05:08]  14. Bc4  [%clk 0:04:49]  
+( 14. a3 ) 
+14... c6  [%clk 0:04:59]  15. O-O  [%clk 0:04:48]  15... b5  [%clk 0:05:00]  16. Bd3  [%clk 0:04:49]  16... d5  [%clk 0:05:00]  17. Rfe1  [%clk 0:04:45]  17... Bg4  [%clk 0:04:10]  18. f3  [%clk 0:04:32]  18... Bh5  [%clk 0:04:11]  19. Re6  [%clk 0:04:24]  19... Bg6  [%clk 0:02:43]  20. Bxg6  [%clk 0:04:12]  20... hxg6  [%clk 0:02:45]  21. Rxf6  [%clk 0:04:14]  21... Rg8  [%clk 0:02:36]  22. a3  [%clk 0:04:09]  22... Kc7  [%clk 0:02:37]  23. Re1  [%clk 0:04:06]  23... Raf8  [%clk 0:02:25]  24. Re7+  [%clk 0:04:01]  24... Kb6  [%clk 0:02:26]  25. Rxf8  [%clk 0:03:47]  25... Rxf8  [%clk 0:02:29]  26. Re6  [%clk 0:03:48]  26... g5  [%clk 0:02:25]  27. Re5  [%clk 0:03:38]  27... Rg8  [%clk 0:02:25]  28. g4  [%clk 0:03:34]  28... Kc5  [%clk 0:02:23]  29. c3  [%clk 0:03:23]  
+( 29. Kf2 ) 
+29... b6  [%clk 0:02:21]  30. b3  [%clk 0:03:12]  30... Rg6  [%clk 0:02:22]  31. Kf2  [%clk 0:03:08]  31... Kd6  [%clk 0:02:19]  32. Rf5  [%clk 0:03:05]  32... c5  [%clk 0:02:17]  33. Kg3  [%clk 0:02:54]  33... c4  [%clk 0:02:19]  34. b4  [%clk 0:02:35]  
+( 34. bxc4 bxc4 35. f4 d4 ) 
+34... d4  [%clk 0:02:16]  35. cxd4  [%clk 0:02:22]  35... c3  [%clk 0:02:15]  36. Re5  [%clk 0:02:20]  36... c2  [%clk 0:02:05]  
+( 36... Re6 ) 
+37. Re1  [%clk 0:02:22]  37... Kd5  [%clk 0:02:06]  38. Rc1  [%clk 0:02:22]  38... Rc6  [%clk 0:02:08]  39. f4  [%clk 0:02:20]  39... Kxd4  [%clk 0:02:06]  
+( 39... Rc3+ 40. Kf2 ) 
+40. fxg5  [%clk 0:02:13]  40... Kd3  [%clk 0:02:08]  41. h4  [%clk 0:02:14]  41... Kd2  [%clk 0:02:10]  42. Rxc2+  [%clk 0:02:16]  42... Rxc2  [%clk 0:01:57]  43. g6  [%clk 0:02:18]  43... Ke3  [%clk 0:01:54]  44. h5  [%clk 0:02:17]  44... Ke4  [%clk 0:01:42]  45. g7  [%clk 0:02:17]  45... Rc8  [%clk 0:01:40]  46. h6  [%clk 0:02:19]  46... Ke5  [%clk 0:01:22]  47. h7  Black resigns.  1-0
+

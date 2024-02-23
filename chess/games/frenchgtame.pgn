@@ -1,0 +1,12 @@
+[Result "1-0"]
+[Date "2023.12.23"]
+[Round "1"]
+[Event "?"]
+[Black "?"]
+[Site "Earth"]
+[White "?"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 Nfd7 5. Qe2 Be7 6. Ngf3 O-O 7. e5 c5 8. c3 f6 9. h4 Nc6 10. Bxh7+ Kxh7 11. Ng5+ fxg5 
+( 11... Kg8 12. Qh5 fxg5 13. hxg5 Rf5 14. Qh8+ Kf7 15. Qh5+ Kg8 ) 
+12. hxg5+ Kg8 13. Rh8+ Kxh8 14. Qh5+ Kg8 15. g6 Nf6 16. exf6 Rxf6 17. Qh7+ Kf8 18. Qh8# 1-0
+

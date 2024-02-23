@@ -1,0 +1,30 @@
+[Site "https://lichess.org/P0CoEx1r"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[White "Diagonalle"]
+[BlackElo "1731"]
+[WhiteElo "1665"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.05"]
+[Date "2024.02.05"]
+[TimeControl "300+3"]
+[ECO "B90"]
+[UTCTime "18:10:46"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:00]  2... d6  [%clk 0:05:01]  3. d4  [%clk 0:05:00]  3... cxd4  [%clk 0:05:03]  4. Nxd4  [%clk 0:05:02]  4... Nf6  [%clk 0:05:04]  5. Nc3  [%clk 0:05:03]  5... a6  B90 Sicilian Defense: Najdorf Variation  6. f3  [%clk 0:05:03]  6... e5  [%clk 0:05:02]  7. Nb3  [%clk 0:04:59]  7... Be6  [%clk 0:05:03]  8. Be3  [%clk 0:05:02]  8... Nbd7  [%clk 0:05:01]  
+( 8... Nc6 ) 
+( 8... h5 ) 
+9. Qd2  [%clk 0:05:04]  9... Nb6  [%clk 0:05:00]  
+( 9... Be7 ) 
+10. O-O-O  [%clk 0:05:05]  10... Rc8  [%clk 0:04:52]  11. Qf2  [%clk 0:04:43]  11... Nfd7  [%clk 0:03:59]  
+( 11... Nc4 12. Bxc4 Rxc4 13. Bg5 ( 13. Bb6 Qc8 ) 13... Be7 ( 13... Rxc3 14. Bxf6 ( 14. bxc3 Nxe4 15. fxe4 Qxg5+ ) 14... gxf6 15. bxc3 Bh6+ 16. Kb2 O-O ) 14. Bxf6 Bxf6 15. Nd5 Qb8 ) 
+12. f4  [%clk 0:04:04]  12... Bc4  [%clk 0:03:47]  
+( 12... Rxc3 13. bxc3 Na4 ) 
+13. fxe5  [%clk 0:04:00]  13... Bxf1  [%clk 0:03:38]  14. Rhxf1  [%clk 0:03:52]  14... Qc7  [%clk 0:03:02]  15. Qxf7+  [%clk 0:03:43]  15... Kd8  [%clk 0:03:04]  16. Bg5+  [%clk 0:03:41]  16... Nf6  Black resigns.  1-0
+

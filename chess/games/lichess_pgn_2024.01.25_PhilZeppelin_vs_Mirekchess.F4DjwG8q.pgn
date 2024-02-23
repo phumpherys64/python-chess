@@ -1,0 +1,31 @@
+[Site "https://lichess.org/F4DjwG8q"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[White "PhilZeppelin"]
+[BlackElo "1746"]
+[WhiteElo "1717"]
+[Termination "Normal"]
+[Black "Mirekchess"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.25"]
+[Date "2024.01.25"]
+[TimeControl "300+3"]
+[ECO "B76"]
+[UTCTime "18:13:26"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:04:56]  2... d6  [%clk 0:05:01]  3. d4  [%clk 0:04:56]  3... cxd4  [%clk 0:05:03]  4. Nxd4  [%clk 0:04:58]  4... Nf6  [%clk 0:05:06]  5. Nc3  [%clk 0:05:00]  5... g6  [%clk 0:05:07]  6. Be3  [%clk 0:04:55]  6... Bg7  [%clk 0:05:09]  7. f3  [%clk 0:04:48]  7... O-O  [%clk 0:05:11]  8. Qd2  [%clk 0:04:50]  8... Nc6  [%clk 0:05:12]  9. O-O-O  B76 Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line  9... Bd7  [%clk 0:05:14]  10. Kb1  [%clk 0:04:46]  10... Rc8  [%clk 0:05:15]  11. g4  [%clk 0:04:44]  11... Ne5  [%clk 0:04:55]  12. Be2  [%clk 0:04:40]  
+( 12. h4 Qa5 ( 12... h5 13. gxh5 Nxh5 14. Be2 Nc6 15. Nxc6 Bxc6 16. Rhg1 Bxc3 17. bxc3 ) 13. Nb3 Qc7 14. Nd4 ( 14. Qg2 ) 14... Qa5 15. Nb3 Qc7 16. Qg2 ) 
+12... Nc4  [%clk 0:04:55]  13. Bxc4  [%clk 0:04:41]  13... Rxc4  [%clk 0:04:56]  14. b3  [%clk 0:04:19]  
+( 14. h4 Qc7 15. h5 Rxc3 16. Qxc3 ( 16. h6 Bh8 17. Qxc3 Qxc3 18. bxc3 Ba4 19. Ne2 Rc8 20. Bd4 Nd7 21. Bxh8 Kxh8 22. g5 ) 16... Qxc3 17. bxc3 Rc8 ( 17... Ba4 18. hxg6 hxg6 19. Bh6 Rc8 20. Bxg7 Kxg7 21. Kb2 ) 18. h6 Bf8 ) 
+14... Rc7  [%clk 0:04:54]  15. Bh6  [%clk 0:04:08]  15... Bxh6  [%clk 0:04:42]  16. Qxh6  [%clk 0:04:08]  16... Rxc3  [%clk 0:04:44]  17. h4  [%clk 0:04:11]  17... Nxg4  [%clk 0:04:09]  18. fxg4  [%clk 0:04:08]  18... Bxg4  [%clk 0:04:10]  19. Rdg1  [%clk 0:04:08]  
+( 19. h5 ) 
+19... f5  [%clk 0:04:01]  20. h5  [%clk 0:03:58]  
+( 20. Ne6 ) 
+20... Bxh5  [%clk 0:03:47]  21. Ne6  Black resigns.  
+( 21. Rxh5 ) 
+1-0
+

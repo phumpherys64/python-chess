@@ -1,0 +1,33 @@
+[Site "https://lichess.org/j7j8HIbW"]
+[Opening "Nimzowitsch Defense: Declined Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1597"]
+[WhiteElo "1555"]
+[Termination "Normal"]
+[Black "vetal1974"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.26"]
+[Date "2023.12.26"]
+[TimeControl "300+3"]
+[ECO "B00"]
+[UTCTime "20:15:01"]
+
+1. e4  [%clk 0:05:00]  1... Nc6  [%clk 0:05:00]  2. Nf3  B00 Nimzowitsch Defense: Declined Variation  2... d5  [%clk 0:05:02]  3. exd5  [%clk 0:05:01]  3... Qxd5  [%clk 0:05:05]  4. Nc3  [%clk 0:05:03]  4... Qh5  [%clk 0:05:08]  5. Be2  [%clk 0:04:57]  
+( 5. Nb5 Kd8 6. d4 Bg4 7. Bf4 Bxf3 8. gxf3 ) 
+5... Bg4  [%clk 0:05:10]  6. h3  [%clk 0:04:49]  6... O-O-O  [%clk 0:05:12]  7. O-O  [%clk 0:04:41]  7... Nf6  [%clk 0:05:14]  8. d3  [%clk 0:03:55]  
+( 8. hxg4 Nxg4 9. Ne4 ) 
+8... e5  [%clk 0:05:13]  9. Re1  [%clk 0:03:05]  
+( 9. hxg4 Nxg4 10. Ne4 ) 
+9... h6  [%clk 0:05:10]  10. hxg4  [%clk 0:02:59]  10... Nxg4  [%clk 0:05:12]  11. Ne4  [%clk 0:02:33]  11... f5  [%clk 0:05:02]  12. Ng3  [%clk 0:02:31]  12... Qf7  [%clk 0:05:04]  13. Nh2  [%clk 0:02:01]  
+( 13. Nh4 ) 
+13... h5  [%clk 0:05:02]  14. Nxf5  [%clk 0:01:44]  
+( 14. Nxg4 fxg4 ) 
+14... Qxf5  [%clk 0:05:01]  
+( 14... Nxf2 15. Kxf2 Bc5+ ) 
+15. Nxg4  [%clk 0:01:46]  15... hxg4  [%clk 0:05:03]  16. Bxg4  Black resigns.  1-0
+

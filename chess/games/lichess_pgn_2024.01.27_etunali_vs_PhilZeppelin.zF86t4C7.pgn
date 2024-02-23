@@ -1,0 +1,31 @@
+[Site "https://lichess.org/zF86t4C7"]
+[Opening "Sicilian Defense: Sozin Attack"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[White "etunali"]
+[BlackElo "1735"]
+[WhiteElo "1748"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.27"]
+[Date "2024.01.27"]
+[TimeControl "300+3"]
+[ECO "B86"]
+[UTCTime "18:11:46"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:01]  2... d6  [%clk 0:05:02]  3. Bc4  [%clk 0:05:02]  3... Nf6  [%clk 0:05:02]  4. Nc3  [%clk 0:05:02]  4... e6  [%clk 0:05:04]  5. d4  [%clk 0:05:01]  5... cxd4  [%clk 0:05:03]  6. Nxd4  B86 Sicilian Defense: Sozin Attack  6... a6  [%clk 0:05:05]  7. O-O  [%clk 0:05:01]  7... b5  [%clk 0:05:05]  8. Bb3  [%clk 0:04:54]  8... Nbd7  [%clk 0:05:00]  9. Bg5  [%clk 0:04:43]  9... Qb6  [%clk 0:04:49]  10. Be3  [%clk 0:04:20]  10... Qc7  [%clk 0:04:45]  11. f4  [%clk 0:03:56]  11... Bb7  [%clk 0:04:34]  12. e5  [%clk 0:03:23]  12... dxe5  [%clk 0:04:30]  13. fxe5  [%clk 0:03:22]  13... Qxe5  [%clk 0:03:38]  14. Bf4  [%clk 0:03:16]  14... Qc5  [%clk 0:03:35]  15. Kh1  [%clk 0:03:12]  15... Be7  [%clk 0:03:09]  
+( 15... e5 ) 
+16. Bxe6  [%clk 0:02:39]  16... O-O  [%clk 0:02:53]  
+( 16... fxe6 17. Nxe6 Qc6 18. Nc7+ Kf7 19. Qe2 Rae8 20. Nxe8 Rxe8 ) 
+17. Bh3  [%clk 0:02:23]  17... Rad8  [%clk 0:02:29]  
+( 17... Rfe8 ) 
+18. Nb3  [%clk 0:02:23]  18... Qh5  [%clk 0:02:12]  
+( 18... Qa7 ) 
+19. Bc7  [%clk 0:02:12]  
+( 19. Qxh5 Nxh5 20. Bc7 Rc8 21. Ba5 Ndf6 22. Bxc8 Rxc8 ) 
+19... Qxh3  [%clk 0:02:08]  20. Rf2  [%clk 0:01:58]  20... Ng4  [%clk 0:01:43]  21. Na5  [%clk 0:01:38]  21... Nxf2+  [%clk 0:01:25]  22. Kg1  [%clk 0:01:34]  22... Qxg2#  Black wins by checkmate.  0-1
+

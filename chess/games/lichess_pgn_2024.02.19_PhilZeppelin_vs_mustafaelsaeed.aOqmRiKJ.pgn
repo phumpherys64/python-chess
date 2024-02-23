@@ -1,0 +1,27 @@
+[Site "https://lichess.org/aOqmRiKJ"]
+[Opening "Scotch Game: Classical Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-13"]
+[White "PhilZeppelin"]
+[BlackElo "1687"]
+[WhiteElo "1636"]
+[Termination "Normal"]
+[Black "mustafaelsaeed"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.19"]
+[Date "2024.02.19"]
+[TimeControl "300+3"]
+[ECO "C45"]
+[UTCTime "19:35:50"]
+
+1. e4  [%clk 0:05:00]  1... e5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:02]  2... Nc6  [%clk 0:05:02]  3. d4  [%clk 0:05:04]  3... exd4  [%clk 0:05:00]  4. Nxd4  [%clk 0:05:01]  4... Bc5  C45 Scotch Game: Classical Variation  5. Be3  [%clk 0:05:02]  5... Nxd4  [%clk 0:04:53]  6. Bxd4  [%clk 0:05:03]  6... Bxd4  [%clk 0:04:56]  7. Qxd4  [%clk 0:05:03]  7... Qf6  [%clk 0:04:55]  8. e5  [%clk 0:05:04]  8... Qe6  [%clk 0:04:47]  9. Bc4  [%clk 0:05:00]  
+( 9. Nc3 ) 
+9... Qe7  [%clk 0:04:34]  10. Nc3  [%clk 0:04:59]  10... d6  [%clk 0:04:35]  11. Nd5  [%clk 0:04:59]  11... Qd7  [%clk 0:03:57]  12. O-O-O  [%clk 0:04:52]  
+( 12. exd6 Qxd6 13. Qxg7 Bg4 14. O-O O-O-O 15. Qxg4+ Kb8 ) 
+12... c6  [%clk 0:03:57]  13. e6  [%clk 0:03:46]  
+( 13. Nc7+ Qxc7 14. exd6 Qd8 15. Qxg7 Qf6 16. Bxf7+ Kd7 17. Qg4+ Kd8 18. d7 ) 
+13... fxe6  [%clk 0:03:48]  14. Nf4  [%clk 0:03:43]  14... d5  [%clk 0:03:29]  15. Nxe6  [%clk 0:03:16]  15... Nf6  [%clk 0:03:06]  16. Rhe1  [%clk 0:02:48]  16... Kf7  [%clk 0:02:41]  17. Ng5+  [%clk 0:02:37]  17... Kg6  [%clk 0:02:17]  18. Bd3+  [%clk 0:02:11]  18... Kxg5  [%clk 0:01:58]  19. h4+  [%clk 0:02:01]  19... Kh5  [%clk 0:01:25]  20. Re5+  [%clk 0:01:56]  20... Kh6  [%clk 0:01:10]  21. Qf4+  [%clk 0:01:49]  21... g5  [%clk 0:01:08]  22. Qxg5#  White wins by checkmate.  1-0
+

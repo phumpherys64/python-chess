@@ -1,0 +1,20 @@
+[Site "https://lichess.org/pNIBkfYR"]
+[Opening "Philidor Defense: Exchange Variation"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[White "PhilZeppelin"]
+[BlackElo "1550"]
+[WhiteElo "1638"]
+[Termination "Normal"]
+[Black "jaka777"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.07"]
+[Date "2023.12.07"]
+[TimeControl "300+3"]
+[ECO "C41"]
+[UTCTime "19:43:17"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 c5 8. Nb3 Nc6 9. O-O-O Be6 10. Kb1 Bxb3 11. cxb3 Qa5 12. Bc4 a6 13. f3 b5 14. Bd5 Nxd5 15. exd5 Nd4 16. Rhe1 Bf6 17. Bxd6 Rfd8 18. Bxc5 Rxd5 19. b4 Qd8 20. Nxd5 Qxd5 21. Bxd4 Rd8 22. Bxf6 Qf5+ 23. Qd3 Qxd3+ 24. Rxd3 Rf8 25. Be7 Ra8 26. Rd8+ Rxd8 27. Bxd8 Kf8 28. Bb6 1-0
+

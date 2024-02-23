@@ -1,0 +1,27 @@
+[Site "https://lichess.org/6c92wMoE"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[White "ludomingo2"]
+[BlackElo "1720"]
+[WhiteElo "1804"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.10"]
+[Date "2024.02.10"]
+[TimeControl "300+3"]
+[ECO "B90"]
+[UTCTime "21:31:03"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:02]  2... d6  [%clk 0:05:01]  3. d4  [%clk 0:05:04]  3... cxd4  [%clk 0:05:02]  4. Nxd4  [%clk 0:05:07]  4... Nf6  [%clk 0:05:03]  5. Nc3  [%clk 0:05:09]  5... a6  [%clk 0:05:03]  6. Bc4  B90 Sicilian Defense: Najdorf Variation, Lipnitsky Attack  6... e6  [%clk 0:05:04]  7. Bb3  [%clk 0:05:11]  7... Nbd7  [%clk 0:04:50]  8. Bxe6  [%clk 0:04:26]  8... fxe6  [%clk 0:04:49]  9. Nxe6  [%clk 0:04:28]  9... Qb6  [%clk 0:04:45]  10. O-O  [%clk 0:04:17]  10... Nc5  [%clk 0:04:21]  
+( 10... Ne5 11. Nf4 Be7 12. Nfd5 Qd8 13. f4 Nc6 14. Be3 O-O ) 
+11. Nxf8  [%clk 0:04:14]  11... Rxf8  [%clk 0:04:05]  12. Nd5  [%clk 0:03:59]  12... Nxd5  [%clk 0:04:02]  13. exd5  [%clk 0:03:56]  13... Kf7  [%clk 0:03:59]  14. Qh5+  [%clk 0:03:27]  14... Kg8  [%clk 0:03:57]  15. b3  [%clk 0:03:11]  15... Bd7  [%clk 0:03:34]  
+( 15... Bf5 ) 
+16. c4  [%clk 0:03:09]  16... Rf5  [%clk 0:03:29]  
+( 16... Rae8 ) 
+17. Qh4  [%clk 0:02:57]  17... Raf8  [%clk 0:03:19]  18. Be3  [%clk 0:02:49]  18... Qd8  [%clk 0:02:41]  19. Qg3  [%clk 0:02:40]  19... Ne4  [%clk 0:02:31]  20. Qxd6  [%clk 0:02:35]  20... Nxd6  White resigns.  0-1
+
