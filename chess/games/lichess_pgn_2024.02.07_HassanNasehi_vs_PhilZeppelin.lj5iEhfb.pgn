@@ -1,0 +1,34 @@
+[Site "https://lichess.org/lj5iEhfb"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[White "HassanNasehi"]
+[BlackElo "1708"]
+[WhiteElo "1719"]
+[Termination "Time forfeit"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.07"]
+[Date "2024.02.07"]
+[TimeControl "300+3"]
+[ECO "B95"]
+[UTCTime "17:38:17"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:02]  2... d6  [%clk 0:05:01]  3. d4  [%clk 0:05:03]  3... cxd4  [%clk 0:05:02]  4. Nxd4  [%clk 0:05:06]  4... Nf6  [%clk 0:05:04]  5. Nc3  [%clk 0:05:05]  5... a6  [%clk 0:05:06]  6. Bg5  [%clk 0:05:06]  6... e6  B95 Sicilian Defense: Najdorf Variation  7. Be2  [%clk 0:05:04]  7... h6  [%clk 0:05:04]  8. Bxf6  [%clk 0:05:05]  8... Qxf6  [%clk 0:05:05]  9. O-O  [%clk 0:05:06]  9... Qd8  [%clk 0:05:04]  10. Re1  [%clk 0:04:55]  10... Be7  [%clk 0:05:05]  11. Nb3  [%clk 0:04:45]  11... b5  [%clk 0:04:53]  
+( 11... Nd7 ) 
+( 11... Qc7 ) 
+12. a3  [%clk 0:04:45]  12... Bb7  [%clk 0:04:50]  13. Bf3  [%clk 0:04:41]  13... Nd7  [%clk 0:04:42]  14. Qd3  [%clk 0:04:25]  14... Ne5  [%clk 0:04:39]  15. Qe3  [%clk 0:04:19]  15... Rc8  [%clk 0:04:01]  
+( 15... Nc4 16. Qc1 Bf6 ) 
+16. Rad1  [%clk 0:04:19]  16... Qc7  [%clk 0:03:43]  
+( 16... Nc4 ) 
+17. Be2  [%clk 0:04:19]  17... O-O  [%clk 0:03:26]  18. Kh1  [%clk 0:04:14]  18... Nc4  [%clk 0:03:20]  19. Bxc4  [%clk 0:04:14]  19... Qxc4  [%clk 0:03:15]  20. Qd4  [%clk 0:04:06]  20... Bf6  [%clk 0:02:47]  
+( 20... Qc7 ) 
+21. Qxc4  [%clk 0:04:04]  21... bxc4  [%clk 0:02:34]  22. Nd4  [%clk 0:04:04]  22... d5  [%clk 0:02:13]  
+( 22... Rb8 ) 
+23. e5  [%clk 0:03:59]  23... Bd8  [%clk 0:01:45]  24. f4  [%clk 0:03:54]  24... Rb8  [%clk 0:01:12]  25. Rb1  [%clk 0:03:35]  25... Bb6  [%clk 0:01:07]  26. Red1  [%clk 0:03:35]  26... Bc5  [%clk 0:00:50]  27. Nce2  [%clk 0:02:53]  27... Rfc8  [%clk 0:00:47]  28. c3  [%clk 0:02:54]  28... Ba8  [%clk 0:00:38]  29. Kg1  [%clk 0:02:49]  29... Rb6  [%clk 0:00:19]  30. Kf1  [%clk 0:02:32]  30... Rcb8  [%clk 0:00:21]  31. b4  [%clk 0:01:53]  31... cxb3  [%clk 0:00:15]  32. a4  [%clk 0:01:50]  32... b2  [%clk 0:00:06]  
+( 32... a5 ) 
+33. Rd2  White wins on time.  1-0
+

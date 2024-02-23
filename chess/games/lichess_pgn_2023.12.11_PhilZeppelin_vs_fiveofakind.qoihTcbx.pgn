@@ -1,0 +1,34 @@
+[Site "https://lichess.org/qoihTcbx"]
+[Opening "Alekhine Defense: Four Pawns Attack, Trifunovic Variation"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1585"]
+[WhiteElo "1570"]
+[Termination "Normal"]
+[Black "fiveofakind"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.11"]
+[Date "2023.12.11"]
+[TimeControl "300+3"]
+[ECO "B03"]
+[UTCTime "17:58:23"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nf3 e6 7. Bd3 
+( 7. Nc3 dxe5 8. fxe5 Be7 9. Be2 ( 9. Be3 Nc6 10. Be2 ) 9... O-O 10. O-O Nc6 11. Be3 ) 
+7... Bxd3 8. Qxd3 Nc6 9. a3 
+( 9. O-O dxe5 10. fxe5 Qd7 11. Be3 O-O-O 12. Qe2 ) 
+9... Be7 10. Nc3 O-O 11. O-O f6 12. d5 
+( 12. exd6 cxd6 13. d5 Na5 ( 13... exd5 14. cxd5 Na5 15. Nd4 Qc8 16. Rb1 ) 14. Nd4 Qc8 ( 14... exd5 15. Ne6 ) 15. b3 exd5 16. Nxd5 ) 
+12... exd5 
+( 12... dxe5 13. fxe5 Bc5+ 14. Kh1 Nxe5 15. Nxe5 fxe5 16. Rxf8+ Bxf8 17. Be3 exd5 18. cxd5 ) 
+13. Nxd5 
+( 13. exf6 Bxf6 14. cxd5 Ne7 15. a4 ) 
+13... dxe5 14. Nxe7+ 
+( 14. Rd1 Re8 ) 
+14... Qxe7 15. fxe5 Nxe5 16. Nxe5 Qxe5 17. Bf4 Qxb2 
+( 17... Qc5+ 18. Rf2 Rad8 19. Qc2 ) 
+18. Rab1 Qxa3 19. Qxa3 1-0
+

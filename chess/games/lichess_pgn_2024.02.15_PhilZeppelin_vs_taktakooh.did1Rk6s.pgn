@@ -1,0 +1,40 @@
+[Site "https://lichess.org/did1Rk6s"]
+[Opening "Pirc Defense"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[White "PhilZeppelin"]
+[BlackElo "1697"]
+[WhiteElo "1715"]
+[Termination "Time forfeit"]
+[Black "taktakooh"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.15"]
+[Date "2024.02.15"]
+[TimeControl "300+3"]
+[ECO "B07"]
+[UTCTime "17:49:17"]
+
+1. e4  [%clk 0:05:00]  1... d6  [%clk 0:05:00]  2. d4  [%clk 0:05:01]  2... Nf6  [%clk 0:05:01]  3. Nc3  [%clk 0:05:02]  3... g6  B07 Pirc Defense  4. f3  [%clk 0:05:00]  4... Bg7  [%clk 0:05:06]  5. Be3  [%clk 0:05:01]  5... O-O  [%clk 0:05:08]  6. Qd2  [%clk 0:05:02]  6... Nc6  [%clk 0:05:10]  7. O-O-O  [%clk 0:04:59]  7... e5  [%clk 0:05:11]  8. d5  [%clk 0:04:36]  8... Nb4  [%clk 0:05:09]  9. a3  [%clk 0:04:32]  9... Na6  [%clk 0:05:10]  10. Bh6  [%clk 0:04:15]  
+( 10. g4 h5 ( 10... Nc5 11. h4 h5 12. Bg5 ) 11. h4 Nc5 ( 11... hxg4 12. Bg5 Qe8 13. h5 Nxh5 14. Bb5 c6 15. dxc6 bxc6 16. fxg4 Ng3 ( 16... Bxg4 17. Bxa6 Bxd1 18. Qxd1 ) 17. Bxa6 Nxh1 ( 17... Bxa6 18. Rh3 Nf1 19. Qf2 f6 20. Bh6 Bxh6+ 21. Rxh6 Kg7 22. Rh3 d5 23. Nge2 d4 24. Rxf1 Qe7 ( 24... dxc3 25. Qh4 f5 26. Qh7+ Kf6 27. exf5 cxb2+ 28. Kb1 Rh8 29. g5+ Kxg5 30. Rg3+ Kf6 31. Rxg6+ Qxg6 32. fxg6+ Ke6 33. Qf7+ Kd6 34. Nc3 ) ) 18. Bxc8 Rxc8 19. Qg2 ) 12. Bg5 hxg4 13. b4 Ncd7 14. h5 ) 
+( 10. h4 h5 11. g4 hxg4 12. Bg5 ) 
+10... Bd7  [%clk 0:05:11]  11. h4  [%clk 0:04:15]  
+( 11. Bxa6 bxa6 12. h4 Nh5 13. Bxg7 ( 13. g4 Bxh6 14. Qxh6 Nf4 15. Nh3 Nxh3 16. Rxh3 f6 17. b3 Rf7 18. Kb2 Qf8 ( 18... a5 19. a4 Qf8 20. Qc1 Rb8 21. Rh2 Rb4 22. Na2 Rb6 23. Ka1 c5 24. dxc6 Rxc6 25. Kb2 Qb8 26. Nc3 Be6 27. Nd5 Rc5 28. h5 Bxd5 29. Rxd5 gxh5 30. Rd3 hxg4 31. fxg4 Qb4 32. Rxd6 Qxe4 33. Rd8+ Rf8 ) 19. Qc1 Qb8 20. Rh2 Qb6 21. Rd3 Bb5 22. Re3 Bd7 23. h5 g5 24. Ka2 a5 25. a4 Rb8 26. Nd1 c5 27. dxc6 Be6 28. Rd3 Qxc6 29. c4 ) 13... Kxg7 14. g4 Nf4 15. Nge2 Nxe2+ 16. Qxe2 a5 17. Qa6 Qf6 18. Rd3 ) 
+11... b5  [%clk 0:05:10]  12. h5  [%clk 0:03:45]  12... Nxh5  [%clk 0:05:09]  13. Bxg7  [%clk 0:03:44]  
+( 13. g4 Ng3 14. Bxg7 Nxh1 15. Bxf8 Qxf8 16. Qh2 ) 
+13... Kxg7  [%clk 0:05:03]  14. g4  [%clk 0:03:44]  14... Nf4  [%clk 0:05:04]  15. Qh2  [%clk 0:03:24]  
+( 15. Nge2 ) 
+15... h5  [%clk 0:05:00]  16. gxh5  [%clk 0:03:13]  16... Nxh5  [%clk 0:05:02]  17. Nh3  [%clk 0:02:40]  17... Qh4  [%clk 0:05:00]  
+( 17... Rh8 ) 
+18. Nxb5  [%clk 0:01:23]  
+( 18. Bxb5 Bxb5 19. Nxb5 ) 
+18... Bxb5  [%clk 0:05:01]  19. Bxb5  [%clk 0:01:21]  19... Nc5  [%clk 0:05:03]  20. b4  [%clk 0:01:03]  20... Nb7  [%clk 0:05:03]  
+( 20... Rab8 21. Bc6 Nb7 22. Qd2 ) 
+21. Rdg1  [%clk 0:00:55]  
+( 21. Ba6 Nd8 22. Qg1 Qf6 ) 
+21... Rab8  [%clk 0:05:01]  22. Bc6  [%clk 0:00:34]  22... Nd8  [%clk 0:05:01]  23. Bd7  [%clk 0:00:07]  23... Nf6  [%clk 0:04:39]  24. Bf5  [%clk 0:00:05]  
+( 24. Bg4 Rh8 25. Qd2 Qh6 26. f4 exf4 27. Qc3 f3+ 28. Kd1 f2 29. Nxf2 Qf4 30. Rxh8 Kxh8 31. Nd3 ) 
+24... Rh8  Black wins on time.  25. Qg2 0-1
+

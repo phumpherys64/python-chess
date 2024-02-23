@@ -1,0 +1,28 @@
+[Site "https://lichess.org/Nn79LzrM"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[White "alsmith"]
+[BlackElo "1719"]
+[WhiteElo "1808"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.14"]
+[Date "2024.02.14"]
+[TimeControl "300+3"]
+[ECO "B22"]
+[UTCTime "00:18:11"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. c3  [%clk 0:05:01]  2... Nf6  [%clk 0:05:00]  3. e5  [%clk 0:05:02]  3... Nd5  [%clk 0:05:02]  4. d4  [%clk 0:05:04]  4... cxd4  B22 Sicilian Defense: Alapin Variation, Smith-Morra Declined  5. Nf3  [%clk 0:05:06]  5... Nc6  [%clk 0:04:59]  6. cxd4  [%clk 0:05:07]  6... d6  [%clk 0:04:58]  7. Nc3  [%clk 0:05:09]  7... Nxc3  [%clk 0:04:57]  
+( 7... dxe5 8. Nxe5 ( 8. dxe5 Nxc3 9. Qxd8+ Nxd8 10. bxc3 Bd7 ) 8... Nxc3 9. bxc3 ( 9. Nxc6 Nxd1 10. Nxd8 Kxd8 11. Kxd1 e6 ) 9... Nxe5 10. dxe5 Qxd1+ 11. Kxd1 g6 12. Bb5+ Bd7 13. a4 ( 13. Bxd7+ Kxd7 ) ) 
+8. bxc3  [%clk 0:05:11]  8... dxe5  [%clk 0:05:00]  9. Bb5  [%clk 0:05:06]  9... exd4  [%clk 0:04:50]  10. Nxd4  [%clk 0:05:03]  10... Bd7  [%clk 0:04:50]  11. Nxc6  [%clk 0:04:45]  11... Bxc6  [%clk 0:04:50]  12. Bxc6+  [%clk 0:04:47]  12... bxc6  [%clk 0:04:50]  13. O-O  [%clk 0:04:48]  13... Qxd1  [%clk 0:04:47]  14. Rxd1  [%clk 0:04:49]  14... e6  [%clk 0:04:50]  
+( 14... h5 ) 
+( 14... g6 ) 
+15. Bf4  [%clk 0:04:05]  15... Be7  [%clk 0:04:46]  16. Rab1  [%clk 0:04:03]  16... O-O  [%clk 0:04:40]  17. Rb7  [%clk 0:03:59]  17... Rfd8  [%clk 0:04:37]  18. Rdd7  [%clk 0:03:45]  18... Bf6  [%clk 0:04:27]  
+( 18... Rxd7 19. Rxd7 Rd8 20. Rxd8+ Bxd8 ) 
+19. Kf1  [%clk 0:03:30]  19... Rxd7  [%clk 0:04:03]  20. Rxd7  [%clk 0:03:29]  20... Bxc3  [%clk 0:04:04]  21. Rc7  [%clk 0:03:11]  21... e5  [%clk 0:04:03]  22. Be3  [%clk 0:03:09]  22... Bd4  [%clk 0:03:59]  23. Bxd4  [%clk 0:03:05]  23... exd4  [%clk 0:04:01]  24. Rxc6  [%clk 0:03:07]  24... Rd8  [%clk 0:04:02]  25. Ke2  [%clk 0:03:08]  25... h5  [%clk 0:04:00]  26. Kd3  [%clk 0:03:09]  26... Rd7  [%clk 0:03:59]  27. Rc4  [%clk 0:03:09]  27... Kf8  [%clk 0:03:55]  28. Rxd4  [%clk 0:03:10]  28... Rxd4+  [%clk 0:03:55]  29. Kxd4  [%clk 0:03:13]  29... g5  [%clk 0:03:51]  30. Kc5  [%clk 0:03:14]  30... f5  [%clk 0:03:51]  31. Kc6  [%clk 0:03:04]  31... Ke7  [%clk 0:03:53]  32. Kb7  [%clk 0:03:05]  32... Kd7  [%clk 0:03:55]  33. Kxa7  [%clk 0:03:07]  33... Kc7  [%clk 0:03:57]  34. f3  [%clk 0:02:49]  34... h4  [%clk 0:03:40]  35. g3  [%clk 0:02:46]  35... hxg3  [%clk 0:03:26]  36. hxg3  [%clk 0:02:48]  36... g4  [%clk 0:03:24]  37. f4  [%clk 0:02:32]  37... Kc6  [%clk 0:03:21]  38. a4  [%clk 0:02:33]  38... Kc7  [%clk 0:03:21]  39. a5  [%clk 0:02:32]  39... Kc6  [%clk 0:03:15]  40. Ka6  [%clk 0:02:33]  40... Kc7  [%clk 0:03:13]  41. Kb5  Black resigns.  1-0
+

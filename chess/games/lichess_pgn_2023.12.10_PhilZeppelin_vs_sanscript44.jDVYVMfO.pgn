@@ -1,0 +1,23 @@
+[Site "https://lichess.org/jDVYVMfO"]
+[Opening "Scotch Game: Classical Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[White "PhilZeppelin"]
+[BlackElo "1541"]
+[WhiteElo "1555"]
+[Termination "Normal"]
+[Black "sanscript44"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.10"]
+[Date "2023.12.10"]
+[TimeControl "300+3"]
+[ECO "C45"]
+[UTCTime "17:22:03"]
+
+1. e4  [%clk 0:05:00]  1... e5  [%clk 0:05:00]  2. Nf3  [%clk 0:04:58]  2... Nc6  [%clk 0:05:01]  3. d4  [%clk 0:04:59]  3... exd4  [%clk 0:05:03]  4. Nxd4  [%clk 0:05:00]  4... Bc5  C45 Scotch Game: Classical Variation  5. Be3  [%clk 0:04:51]  5... Qf6  [%clk 0:04:37]  6. c3  [%clk 0:04:50]  6... d6  [%clk 0:04:25]  7. Bc4  [%clk 0:04:08]  
+( 7. Be2 Qg6 8. O-O ) 
+7... Nge7  [%clk 0:04:16]  8. O-O  [%clk 0:03:58]  8... O-O  [%clk 0:04:17]  9. Nxc6  [%clk 0:03:56]  9... Nxc6  [%clk 0:04:18]  10. Bxc5  [%clk 0:03:55]  10... dxc5  [%clk 0:04:21]  11. f4  [%clk 0:03:55]  11... Na5  [%clk 0:04:19]  12. e5  [%clk 0:03:47]  12... Qb6  [%clk 0:04:15]  13. b3  [%clk 0:02:37]  13... Nxc4  [%clk 0:03:32]  14. bxc4  [%clk 0:02:37]  14... Qb2  [%clk 0:03:30]  15. Nd2  [%clk 0:02:32]  15... Qxc3  [%clk 0:03:25]  16. Nf3  [%clk 0:01:52]  16... Qxc4  [%clk 0:03:24]  17. Rc1  [%clk 0:01:39]  17... Qxf4  White resigns.  0-1
+

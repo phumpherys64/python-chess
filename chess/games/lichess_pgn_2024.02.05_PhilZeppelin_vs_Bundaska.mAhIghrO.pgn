@@ -1,0 +1,30 @@
+[Site "https://lichess.org/mAhIghrO"]
+[Opening "Rat Defense: Small Center Defense"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[White "PhilZeppelin"]
+[BlackElo "1735"]
+[WhiteElo "1737"]
+[Termination "Time forfeit"]
+[Black "Bundaska"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.05"]
+[Date "2024.02.05"]
+[TimeControl "300+3"]
+[ECO "C00"]
+[UTCTime "17:36:01"]
+
+1. e4  [%clk 0:05:00]  1... e6  [%clk 0:05:00]  2. d4  [%clk 0:03:00]  2... d6  C00 Rat Defense: Small Center Defense  3. Bd3  [%clk 0:02:56]  
+( 3. Nf3 d5 4. Nbd2 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Be7 ( 7... Nc6 8. O-O Be7 9. Re1 ) 8. O-O O-O 9. Re1 Nc6 10. a3 f5 11. Kh1 ) 
+3... Be7  [%clk 0:04:57]  4. Nf3  [%clk 0:02:35]  4... Nf6  [%clk 0:04:56]  5. O-O  [%clk 0:01:46]  5... O-O  [%clk 0:04:54]  6. e5  [%clk 0:01:06]  
+( 6. h3 ) 
+( 6. a3 ) 
+( 6. c3 ) 
+( 6. Re1 ) 
+6... Ne8  [%clk 0:04:53]  7. Qe2  [%clk 0:00:59]  7... d5  [%clk 0:04:51]  8. Nbd2  [%clk 0:00:27]  8... Nc6  [%clk 0:04:43]  9. c3  [%clk 0:00:26]  9... a6  [%clk 0:04:40]  10. Re1  [%clk 0:00:26]  
+( 10. h4 f5 ( 10... Bxh4 11. g4 ( 11. g3 Be7 12. Kg2 f5 13. Rh1 Rf7 14. Ng1 Bd7 15. Ndf3 g5 ) ) 11. h5 Bd7 12. a4 a5 13. Nb3 b6 ) 
+10... b5  [%clk 0:04:37]  11. Nf1  [%clk 0:00:25]  11... Na5  [%clk 0:04:35]  12. b4  [%clk 0:00:12]  12... Nc4  [%clk 0:04:33]  13. a4  [%clk 0:00:09]  13... Bd7  [%clk 0:04:31]  14. a5  [%clk 0:00:09]  14... g6  [%clk 0:04:13]  15. Bh6  [%clk 0:00:06]  15... Ng7  Black wins on time.  0-1
+

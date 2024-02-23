@@ -1,0 +1,44 @@
+[Site "https://lichess.org/peHH8ufW"]
+[Opening "Owen Defense"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1732"]
+[WhiteElo "1713"]
+[Termination "Time forfeit"]
+[Black "manolin12"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.15"]
+[Date "2024.01.15"]
+[TimeControl "300+3"]
+[ECO "B00"]
+[UTCTime "20:16:56"]
+
+1. e4  [%clk 0:05:00]  1... b6  B00 Owen Defense  2. d4  [%clk 0:05:01]  2... e6  [%clk 0:04:59]  3. Bd3  [%clk 0:04:52]  3... Bb7  [%clk 0:05:00]  4. Nc3  [%clk 0:04:51]  4... Nf6  [%clk 0:05:01]  5. Be3  [%clk 0:04:43]  
+( 5. h4 ) 
+( 5. Nge2 ) 
+( 5. a3 ) 
+5... Bb4  [%clk 0:05:01]  6. f3  [%clk 0:04:38]  6... d6  [%clk 0:04:18]  
+( 6... c5 7. Ne2 Nc6 ) 
+7. Ne2  [%clk 0:04:17]  7... c5  [%clk 0:04:16]  8. a3  [%clk 0:04:17]  8... cxd4  [%clk 0:04:03]  9. Nxd4  [%clk 0:03:59]  
+( 9. Bb5+ Bc6 10. Bxd4 Bc5 11. Bxf6 Qxf6 12. b4 Be3 13. Qd3 Bf4 14. O-O ( 14. Rd1 ) ( 14. Nxf4 ) ) 
+( 9. Bxd4 Bc5 ( 9... Bxc3+ 10. Nxc3 ( 10. Bxc3 ) ) ) 
+9... Bxc3+  [%clk 0:03:59]  10. bxc3  [%clk 0:04:00]  10... Nc6  [%clk 0:03:57]  11. Bb5  [%clk 0:03:58]  
+( 11. a4 ) 
+( 11. O-O ) 
+11... Rc8  [%clk 0:03:57]  12. Qd3  [%clk 0:03:40]  12... O-O  [%clk 0:03:57]  13. O-O  [%clk 0:03:41]  13... Ne5  [%clk 0:03:32]  14. Qe2  [%clk 0:03:36]  14... Rxc3  [%clk 0:03:32]  15. Rfd1  [%clk 0:02:35]  15... Qc7  [%clk 0:02:50]  16. Bd2  [%clk 0:02:13]  16... Rc8  [%clk 0:01:01]  
+( 16... Rc5 17. Bb4 d5 18. Bxc5 bxc5 19. Nb3 c4 20. Nd4 dxe4 ) 
+17. Bxc3  [%clk 0:02:11]  17... Qxc3  [%clk 0:01:02]  18. h3  [%clk 0:01:48]  
+( 18. a4 ) 
+( 18. Qe1 ) 
+18... Ng6  [%clk 0:00:54]  19. Qd2  [%clk 0:01:34]  
+( 19. a4 ) 
+19... Qc5  [%clk 0:00:50]  20. Qb4  [%clk 0:00:38]  20... h6  [%clk 0:00:29]  
+( 20... Qg5 21. Qd2 Nf4 ) 
+21. Qxc5  [%clk 0:00:13]  21... dxc5  [%clk 0:00:29]  22. Nb3  [%clk 0:00:14]  22... Nf4  [%clk 0:00:30]  23. Kf2  [%clk 0:00:08]  23... a6  [%clk 0:00:31]  24. Be2  [%clk 0:00:08]  24... b5  [%clk 0:00:27]  25. g3  [%clk 0:00:08]  25... Nxh3+  [%clk 0:00:26]  26. Kg2  [%clk 0:00:09]  26... Ng5  [%clk 0:00:27]  27. Rd2  [%clk 0:00:09]  
+( 27. Na5 ) 
+27... c4  [%clk 0:00:22]  28. Nd4  [%clk 0:00:09]  28... Rd8  [%clk 0:00:11]  29. Rad1  [%clk 0:00:10]  29... Ngh7  [%clk 0:00:05]  30. Kf2  [%clk 0:00:05]  30... Nf8  [%clk 0:00:06]  31. Ke3  [%clk 0:00:07]  31... Nh5  [%clk 0:00:05]  32. g4  [%clk 0:00:07]  32... Ng3  [%clk 0:00:06]  33. c3  [%clk 0:00:06]  33... Nxe2  [%clk 0:00:06]  34. Nxe2  [%clk 0:00:07]  34... Ng6  [%clk 0:00:07]  35. Rxd8+  [%clk 0:00:07]  35... Kh7  [%clk 0:00:07]  36. g5  [%clk 0:00:09]  36... Ne5  [%clk 0:00:06]  37. Rh1  White wins on time.  1-0
+

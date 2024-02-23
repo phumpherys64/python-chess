@@ -1,0 +1,27 @@
+[Site "https://lichess.org/urQEWXvu"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[White "PhilZeppelin"]
+[BlackElo "1793"]
+[WhiteElo "1698"]
+[Termination "Time forfeit"]
+[Black "Catullus999"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.01"]
+[Date "2024.02.01"]
+[TimeControl "300+3"]
+[ECO "C05"]
+[UTCTime "17:18:47"]
+
+1. e4  [%clk 0:05:00]  1... e6  [%clk 0:05:00]  2. d4  [%clk 0:05:00]  2... d5  [%clk 0:05:01]  3. Nd2  [%clk 0:05:01]  3... Nf6  C05 French Defense: Tarrasch Variation, Closed Variation  4. e5  [%clk 0:05:01]  4... Ne4  [%clk 0:05:04]  5. Nxe4  [%clk 0:04:46]  5... dxe4  [%clk 0:05:05]  6. Ne2  [%clk 0:03:01]  6... c5  [%clk 0:05:02]  7. c3  [%clk 0:02:54]  7... Nc6  [%clk 0:05:02]  8. Be3  [%clk 0:02:20]  8... cxd4  [%clk 0:04:58]  9. cxd4  [%clk 0:02:19]  
+( 9. Nxd4 Nxd4 ( 9... Nxe5 10. Bb5+ Bd7 11. Nxe6 Bxb5 ( 11... fxe6 12. Qh5+ g6 13. Qxe5 Bxb5 14. Qxb5+ Qd7 15. Qxd7+ Kxd7 16. O-O-O+ Ke7 ) 12. Nxd8 Rxd8 13. Qb3 Nd3+ 14. Kf1 a6 15. Kg1 ) 10. Qxd4 Qxd4 11. Bxd4 ) 
+9... Bb4+  [%clk 0:04:44]  10. Nc3  [%clk 0:02:09]  10... Qa5  [%clk 0:04:44]  11. Qc2  [%clk 0:01:34]  11... O-O  [%clk 0:04:36]  12. Be2  [%clk 0:01:20]  12... Bd7  [%clk 0:04:37]  13. O-O  [%clk 0:01:17]  13... Rac8  [%clk 0:04:36]  14. a3  [%clk 0:00:49]  
+( 14. Qxe4 Ne7 15. Qxb7 Rc7 16. Qf3 Bxc3 17. bxc3 Qxc3 18. Rac1 Qa5 19. Bd2 ( 19. Rxc7 Qxc7 20. Rc1 Qb6 21. Bd3 ) 19... Qb6 ) 
+14... Bxc3  [%clk 0:04:30]  15. bxc3  [%clk 0:00:47]  15... Qd5  [%clk 0:04:24]  16. c4  [%clk 0:00:45]  16... Nxd4  [%clk 0:04:22]  17. Bxd4  [%clk 0:00:34]  17... Qxd4  [%clk 0:04:22]  18. Rad1  [%clk 0:00:32]  18... Qxe5  [%clk 0:04:06]  19. Rxd7  [%clk 0:00:33]  19... b5  [%clk 0:04:00]  20. Rxa7  [%clk 0:00:21]  20... bxc4  [%clk 0:04:00]  21. a4  [%clk 0:00:21]  21... e3  [%clk 0:03:54]  22. f3  [%clk 0:00:13]  
+( 22. Rd7 exf2+ 23. Rxf2 ) 
+22... Rfd8  [%clk 0:03:47]  23. Rb7  [%clk 0:00:09]  23... Rd2  Black wins on time.  0-1
+

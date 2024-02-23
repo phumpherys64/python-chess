@@ -1,0 +1,35 @@
+[Site "https://lichess.org/hyHmChJZ"]
+[Opening "Grünfeld Defense: Three Knights Variation, Burille Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[White "beyaz57"]
+[BlackElo "1674"]
+[WhiteElo "1707"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.03"]
+[Date "2024.01.03"]
+[TimeControl "300+3"]
+[ECO "D94"]
+[UTCTime "18:37:07"]
+
+1. d4  [%clk 0:05:00]  1... Nf6  [%clk 0:05:00]  2. e3  [%clk 0:05:02]  2... g6  [%clk 0:05:01]  3. c4  [%clk 0:05:04]  3... Bg7  [%clk 0:05:00]  4. Nc3  [%clk 0:05:06]  4... d5  [%clk 0:05:01]  5. Nf3  D94 Grünfeld Defense: Three Knights Variation, Burille Variation  5... c5  [%clk 0:04:57]  
+( 5... O-O ) 
+6. dxc5  [%clk 0:05:06]  6... Qa5  [%clk 0:04:56]  7. a3  [%clk 0:04:55]  
+( 7. cxd5 Nxd5 8. Qxd5 Bxc3+ 9. Bd2 Bxd2+ 10. Qxd2 Qxd2+ 11. Kxd2 ) 
+7... Ne4  [%clk 0:04:31]  8. Bd2  [%clk 0:04:28]  8... Nxc3  [%clk 0:04:25]  9. bxc3  [%clk 0:04:21]  
+( 9. Qc1 ) 
+9... Bxc3  [%clk 0:04:24]  
+( 9... dxc4 10. Bxc4 Qxc5 11. Be2 O-O 12. O-O b6 ) 
+10. Bxc3  [%clk 0:04:17]  
+( 10. cxd5 O-O ( 10... Bxd2+ 11. Qxd2 Qxd2+ 12. Nxd2 O-O 13. Rc1 ) 11. Rc1 Bxd2+ 12. Qxd2 Qxa3 13. Be2 a5 14. O-O Qb4 15. Qa2 ) 
+10... Qxc3+  [%clk 0:04:25]  11. Nd2  [%clk 0:04:18]  11... Bg4  [%clk 0:03:53]  
+( 11... Be6 ) 
+12. Be2  [%clk 0:03:48]  12... Bxe2  [%clk 0:03:44]  13. Kxe2  [%clk 0:03:48]  13... dxc4  [%clk 0:03:40]  14. Qa4+  [%clk 0:03:40]  14... Nd7  [%clk 0:03:27]  15. Nxc4  [%clk 0:03:36]  15... Rd8  [%clk 0:02:36]  
+( 15... O-O 16. Qxd7 Qxc4+ ) 
+16. Rac1  [%clk 0:03:26]  16... Qf6  [%clk 0:02:32]  17. Rcd1  [%clk 0:03:16]  17... O-O  [%clk 0:02:12]  18. Rxd7  [%clk 0:03:11]  18... Qa6  [%clk 0:01:49]  19. Qxa6  Black resigns.  1-0
+

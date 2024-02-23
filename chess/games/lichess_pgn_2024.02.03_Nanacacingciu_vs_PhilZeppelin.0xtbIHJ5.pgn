@@ -1,0 +1,41 @@
+[Site "https://lichess.org/0xtbIHJ5"]
+[Opening "Sicilian Defense: Snyder Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[White "Nanacacingciu"]
+[BlackElo "1730"]
+[WhiteElo "1780"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.03"]
+[Date "2024.02.03"]
+[TimeControl "300+3"]
+[ECO "B20"]
+[UTCTime "18:57:54"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. b3  B20 Sicilian Defense: Snyder Variation  2... d5  [%clk 0:05:01]  
+( 2... g6 3. Bb2 Nf6 4. e5 ( 4. Nc3 Bg7 5. Nd5 O-O 6. Nxf6+ exf6 7. Bc4 Re8 8. Bd5 Nc6 9. Ne2 Nb4 10. O-O Nxd5 11. exd5 ) 4... Nd5 5. Nc3 Nxc3 6. dxc3 Nc6 ) 
+( 2... d6 ) 
+( 2... Nc6 ) 
+3. exd5  [%clk 0:05:01]  3... Qxd5  [%clk 0:05:03]  4. Bb2  [%clk 0:05:01]  4... Qe4+  [%clk 0:04:08]  5. Qe2  [%clk 0:04:56]  5... Nf6  [%clk 0:03:59]  
+( 5... Qxc2 6. d4 Qxe2+ 7. Bxe2 ) 
+6. Nc3  [%clk 0:04:51]  6... Qxe2+  [%clk 0:03:50]  
+( 6... Qxc2 ) 
+7. Bxe2  [%clk 0:04:51]  7... Nc6  [%clk 0:03:48]  8. Nf3  [%clk 0:04:52]  8... e5  [%clk 0:03:31]  
+( 8... Bd7 ) 
+9. h3  [%clk 0:04:52]  
+( 9. Nb5 ) 
+9... Bd6  [%clk 0:03:30]  10. O-O  [%clk 0:04:52]  10... e4  [%clk 0:03:26]  
+( 10... O-O ) 
+11. Nh2  [%clk 0:04:45]  
+( 11. Ng5 Be5 ) 
+11... O-O  [%clk 0:03:19]  12. Rae1  [%clk 0:04:45]  12... Nd4  [%clk 0:03:07]  
+( 12... Be5 ) 
+13. Bd1  [%clk 0:04:44]  13... Re8  [%clk 0:02:58]  14. Na4  [%clk 0:04:34]  14... b5  [%clk 0:02:50]  15. Bxd4  [%clk 0:04:30]  15... cxd4  [%clk 0:02:46]  16. Nb2  [%clk 0:04:30]  16... Bb7  [%clk 0:02:22]  
+( 16... Ba3 ) 
+17. d3  [%clk 0:04:28]  17... Bb4  [%clk 0:02:06]  18. Re2  [%clk 0:04:22]  18... Bc3  [%clk 0:01:51]  19. dxe4  [%clk 0:04:06]  19... Bxb2  [%clk 0:01:41]  20. c4  [%clk 0:04:06]  20... Bc3  [%clk 0:01:35]  21. cxb5  [%clk 0:04:05]  21... Bxe4  [%clk 0:01:27]  22. f3  [%clk 0:03:59]  22... Bd3  [%clk 0:01:05]  23. Rxe8+  [%clk 0:03:58]  23... Rxe8  [%clk 0:01:06]  24. Rf2  [%clk 0:03:59]  24... Re1+  [%clk 0:01:04]  25. Nf1  [%clk 0:03:48]  25... Rxd1  [%clk 0:01:04]  26. g4  [%clk 0:03:45]  26... Bxf1  [%clk 0:01:00]  27. Rxf1  [%clk 0:03:46]  27... Rxf1+  [%clk 0:01:00]  28. Kxf1  [%clk 0:03:48]  28... d3  [%clk 0:00:57]  29. Kf2  [%clk 0:03:47]  29... Nd5  [%clk 0:00:56]  30. a4  [%clk 0:03:47]  30... Nf4  [%clk 0:00:46]  31. Ke3  [%clk 0:03:48]  31... d2  [%clk 0:00:47]  32. Kxf4  [%clk 0:03:47]  32... d1=Q  [%clk 0:00:48]  33. b4  [%clk 0:03:47]  33... Qd6+  [%clk 0:00:42]  34. Kf5  [%clk 0:03:46]  34... Qe5#  Black wins by checkmate.  0-1
+

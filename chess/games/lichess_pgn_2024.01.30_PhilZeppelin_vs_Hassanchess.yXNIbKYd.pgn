@@ -1,0 +1,28 @@
+[Site "https://lichess.org/yXNIbKYd"]
+[Opening "Scotch Game: Classical Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[White "PhilZeppelin"]
+[BlackElo "1675"]
+[WhiteElo "1736"]
+[Termination "Normal"]
+[Black "Hassanchess"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.30"]
+[Date "2024.01.30"]
+[TimeControl "300+3"]
+[ECO "C45"]
+[UTCTime "19:31:49"]
+
+1. e4  [%clk 0:05:00]  1... e5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:02]  2... Nc6  [%clk 0:05:01]  3. d4  [%clk 0:05:02]  3... exd4  [%clk 0:04:57]  4. Nxd4  [%clk 0:05:03]  4... Bc5  C45 Scotch Game: Classical Variation  5. Be3  [%clk 0:05:03]  5... Qf6  [%clk 0:04:53]  6. c3  [%clk 0:05:04]  6... Nge7  [%clk 0:04:50]  7. Bc4  [%clk 0:05:01]  7... Ne5  [%clk 0:04:50]  8. Be2  [%clk 0:05:00]  8... d6  [%clk 0:04:51]  9. f4  [%clk 0:04:31]  9... N5c6  [%clk 0:04:31]  10. O-O  [%clk 0:04:24]  10... O-O  [%clk 0:03:55]  11. Qd2  [%clk 0:04:04]  11... Bxd4  [%clk 0:03:19]  12. cxd4  [%clk 0:04:00]  12... a5  [%clk 0:02:42]  13. Nc3  [%clk 0:03:30]  13... b6  [%clk 0:02:11]  14. d5  [%clk 0:02:54]  14... Nb4  [%clk 0:02:04]  15. a3  [%clk 0:02:55]  
+( 15. Rf3 ) 
+( 15. f5 ) 
+15... Na6  [%clk 0:02:05]  16. Bd4  [%clk 0:02:43]  
+( 16. f5 ) 
+16... Qh6  [%clk 0:02:02]  17. Rf3  [%clk 0:02:29]  17... Nc5  [%clk 0:01:52]  18. Rg3  [%clk 0:02:05]  18... Nb3  [%clk 0:01:49]  19. Rxg7+  [%clk 0:02:05]  
+( 19. Bxg7 Qxg7 ( 19... Nxd2 20. Bxh6+ Ng6 21. f5 Nb3 22. Re1 Bd7 23. fxg6 fxg6 24. Bxf8 Rxf8 25. Bb5 ) 20. Rxg7+ Kxg7 21. Qe1 ) 
+19... Qxg7  [%clk 0:01:39]  20. Bxg7  [%clk 0:02:03]  20... Nxd2  [%clk 0:01:40]  21. Bxf8  [%clk 0:02:00]  21... Kxf8  White resigns.  0-1
+

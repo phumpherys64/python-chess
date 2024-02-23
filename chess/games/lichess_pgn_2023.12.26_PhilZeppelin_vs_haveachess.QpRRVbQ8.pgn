@@ -1,0 +1,33 @@
+[Site "https://lichess.org/QpRRVbQ8"]
+[Opening "Elephant Gambit"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[White "PhilZeppelin"]
+[BlackElo "1636"]
+[WhiteElo "1560"]
+[Termination "Normal"]
+[Black "haveachess"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.26"]
+[Date "2023.12.26"]
+[TimeControl "300+3"]
+[ECO "C40"]
+[UTCTime "00:30:10"]
+
+1. e4  [%clk 0:05:00]  1... e5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:01]  2... d5  C40 Elephant Gambit  3. Nxe5  [%clk 0:05:02]  3... Bd6  [%clk 0:05:03]  4. d4  [%clk 0:04:53]  4... dxe4  [%clk 0:05:02]  5. Nc3  [%clk 0:04:40]  
+( 5. Bc4 Bxe5 6. Qh5 Qe7 7. Qxe5 Qxe5 8. dxe5 Bf5 9. Nc3 Nc6 10. Bf4 ) 
+5... Nd7  [%clk 0:04:51]  6. Nxf7  [%clk 0:03:55]  
+( 6. Nxe4 Nxe5 7. dxe5 Bxe5 8. Qxd8+ Kxd8 9. Bg5+ Nf6 10. O-O-O+ Ke7 11. Bc4 Be6 12. Rhe1 h6 ( 12... Bxc4 13. Nc5 ) ) 
+6... Kxf7  [%clk 0:04:49]  7. Bc4+  [%clk 0:03:45]  7... Ke8  [%clk 0:04:37]  8. Qh5+  [%clk 0:03:40]  8... g6  [%clk 0:04:38]  9. Qd5  [%clk 0:03:42]  9... Qe7  [%clk 0:04:35]  10. Bg5  [%clk 0:03:42]  10... Qg7  [%clk 0:04:19]  
+( 10... Ngf6 ) 
+11. Qe6+  [%clk 0:03:19]  
+( 11. Nxe4 ) 
+11... Ne7  [%clk 0:04:20]  12. Nd5  [%clk 0:02:57]  12... h6  [%clk 0:04:18]  
+( 12... Nb6 ) 
+13. Nf6+  [%clk 0:02:47]  13... Nxf6  [%clk 0:04:19]  14. Bxf6  [%clk 0:02:46]  14... Qf7  [%clk 0:03:51]  
+( 14... Qf8 ) 
+15. Qxf7+  Black resigns.  1-0
+

@@ -1,0 +1,25 @@
+[Site "https://lichess.org/nPDylJIc"]
+[Opening "Grünfeld Defense: Stockholm Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[White "PARAT77"]
+[BlackElo "1628"]
+[WhiteElo "1650"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.06"]
+[Date "2023.12.06"]
+[TimeControl "300+3"]
+[ECO "D80"]
+[UTCTime "20:37:09"]
+
+1. d4  [%clk 0:05:00]  1... Nf6  [%clk 0:05:00]  2. c4  [%clk 0:05:01]  2... g6  [%clk 0:05:01]  3. Nc3  [%clk 0:05:02]  3... d5  [%clk 0:05:03]  4. Bg5  D80 Grünfeld Defense: Stockholm Variation  4... Bg7  [%clk 0:05:00]  5. e3  [%clk 0:04:57]  5... O-O  [%clk 0:04:46]  
+( 5... c5 6. Bxf6 Bxf6 7. dxc5 Bxc3+ 8. bxc3 dxc4 9. Qxd8+ Kxd8 10. Bxc4 ) 
+6. Bxf6  [%clk 0:04:55]  6... Bxf6  [%clk 0:04:46]  7. Nxd5  [%clk 0:04:54]  7... Bg7  [%clk 0:04:44]  8. Nf3  [%clk 0:04:55]  8... c5  [%clk 0:04:36]  9. Be2  [%clk 0:04:40]  9... cxd4  [%clk 0:04:37]  10. Nxd4  [%clk 0:04:41]  10... Nc6  [%clk 0:04:16]  11. Nxc6  [%clk 0:04:25]  11... bxc6  [%clk 0:04:12]  12. Nc3  [%clk 0:04:19]  12... Qa5  [%clk 0:04:01]  13. Qc2  [%clk 0:04:08]  13... Bf5  [%clk 0:03:36]  14. Qc1  [%clk 0:03:58]  
+( 14. e4 Bxe4 15. Qxe4 Bxc3+ 16. Kf1 ( 16. bxc3 Qxc3+ 17. Kf1 Qxa1+ 18. Bd1 Qxd1+ 19. Qe1 Rfd8 ) 16... Bxb2 17. Rd1 ) 
+14... Rab8  [%clk 0:03:19]  15. a3  [%clk 0:03:58]  15... Rxb2  White resigns.  0-1
+

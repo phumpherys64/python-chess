@@ -1,0 +1,35 @@
+[Site "https://lichess.org/kLoQENlv"]
+[Opening "Philidor Defense: Exchange Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[White "PhilZeppelin"]
+[BlackElo "1713"]
+[WhiteElo "1731"]
+[Termination "Normal"]
+[Black "majeed222"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.27"]
+[Date "2024.01.27"]
+[TimeControl "300+3"]
+[ECO "C41"]
+[UTCTime "22:10:19"]
+
+1. e4  [%clk 0:05:00]  1... e5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:02]  2... d6  [%clk 0:05:00]  3. d4  [%clk 0:05:03]  3... exd4  [%clk 0:05:01]  4. Nxd4  C41 Philidor Defense: Exchange Variation  4... Bd7  [%clk 0:05:01]  5. Nc3  [%clk 0:05:00]  5... Be7  [%clk 0:05:01]  6. Bf4  [%clk 0:05:02]  
+( 6. Be3 ) 
+6... Nc6  [%clk 0:05:02]  7. Qd2  [%clk 0:05:02]  
+( 7. Nxc6 Bxc6 8. Qd2 Nf6 9. f3 ) 
+7... Nf6  [%clk 0:05:01]  8. f3  [%clk 0:05:03]  8... Ne5  [%clk 0:04:59]  9. O-O-O  [%clk 0:04:59]  9... Ng6  [%clk 0:04:57]  10. Be3  [%clk 0:04:55]  10... O-O  [%clk 0:04:57]  11. g4  [%clk 0:04:56]  11... c6  [%clk 0:04:56]  12. h4  [%clk 0:04:53]  12... Ne8  [%clk 0:04:53]  13. h5  [%clk 0:04:52]  13... Nh8  [%clk 0:04:51]  14. g5  [%clk 0:04:48]  14... f6  [%clk 0:04:48]  15. Bc4+  [%clk 0:04:42]  15... d5  [%clk 0:04:47]  16. exd5  [%clk 0:04:43]  
+( 16. Nxd5 ) 
+16... Nf7  [%clk 0:04:42]  17. d6  [%clk 0:04:28]  
+( 17. dxc6 bxc6 18. g6 ) 
+17... Bxd6  [%clk 0:04:42]  
+( 17... Nxd6 ) 
+18. g6  [%clk 0:04:28]  18... Nc7  [%clk 0:04:21]  19. gxf7+  [%clk 0:04:19]  19... Kh8  [%clk 0:04:19]  20. Ne4  [%clk 0:04:00]  
+( 20. h6 g6 21. Nde2 ) 
+20... Be5  [%clk 0:04:17]  21. f4  [%clk 0:03:52]  21... Bxd4  [%clk 0:04:14]  22. Bxd4  [%clk 0:03:49]  22... Qe7  [%clk 0:04:15]  23. Rde1  [%clk 0:02:42]  
+( 23. h6 Qxe4 24. hxg7+ Kxg7 25. Rdg1+ ) 
+23... Bf5  [%clk 0:04:11]  24. Ng3  [%clk 0:02:02]  24... Qd7  [%clk 0:04:10]  25. h6  [%clk 0:01:31]  25... g6  [%clk 0:04:10]  26. Bxf6#  White wins by checkmate.  1-0
+

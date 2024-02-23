@@ -1,0 +1,28 @@
+[Site "https://lichess.org/7BUh9dkp"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[White "PhilZeppelin"]
+[BlackElo "1707"]
+[WhiteElo "1712"]
+[Termination "Time forfeit"]
+[Black "Lukless"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.08"]
+[Date "2024.02.08"]
+[TimeControl "300+3"]
+[ECO "B12"]
+[UTCTime "17:34:44"]
+
+1. e4  [%clk 0:05:00]  1... c6  [%clk 0:05:00]  2. d4  [%clk 0:05:01]  2... d5  [%clk 0:05:03]  3. e5  [%clk 0:05:01]  3... c5  B12 Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense  4. Nf3  [%clk 0:05:01]  4... Bg4  [%clk 0:05:05]  5. dxc5  [%clk 0:05:00]  5... e6  [%clk 0:04:58]  6. Be3  [%clk 0:04:59]  6... Qa5+  [%clk 0:04:54]  7. c3  [%clk 0:04:59]  7... Bxc5  [%clk 0:04:55]  8. b4  [%clk 0:05:00]  8... Bxb4  [%clk 0:04:55]  9. cxb4  [%clk 0:05:00]  9... Qxb4+  [%clk 0:04:58]  10. Qd2  [%clk 0:04:43]  10... Qe7  [%clk 0:04:39]  11. Bb5+  [%clk 0:04:38]  11... Nc6  [%clk 0:04:38]  12. Nd4  [%clk 0:04:30]  12... Qc7  [%clk 0:04:33]  13. O-O  [%clk 0:03:51]  13... a6  [%clk 0:04:34]  14. Bxc6+  [%clk 0:03:29]  14... bxc6  [%clk 0:04:37]  15. h3  [%clk 0:02:56]  15... Bh5  [%clk 0:04:35]  16. Na3  [%clk 0:02:28]  
+( 16. Nc3 ) 
+( 16. Nb3 ) 
+16... Ne7  [%clk 0:04:35]  17. Rac1  [%clk 0:02:21]  17... O-O  [%clk 0:04:35]  18. f4  [%clk 0:02:07]  18... Rfc8  [%clk 0:04:30]  19. g4  [%clk 0:01:48]  19... Bg6  [%clk 0:04:27]  20. f5  [%clk 0:01:50]  20... exf5  [%clk 0:04:28]  21. gxf5  [%clk 0:01:27]  21... Bh5  [%clk 0:04:15]  22. f6  [%clk 0:01:18]  22... Ng6  [%clk 0:04:02]  23. Nxc6  [%clk 0:01:10]  
+( 23. Rf5 ) 
+23... Qd7  [%clk 0:04:01]  24. fxg7  [%clk 0:00:54]  24... Rxc6  [%clk 0:03:56]  25. Rxc6  [%clk 0:00:31]  25... Qxc6  [%clk 0:03:57]  26. Rf6  [%clk 0:00:33]  26... Qd7  [%clk 0:03:37]  27. e6  [%clk 0:00:17]  27... fxe6  [%clk 0:03:38]  28. Bh6  [%clk 0:00:07]  28... e5  [%clk 0:02:59]  29. Qf2  [%clk 0:00:07]  29... Qe7  [%clk 0:02:52]  30. Rf8+  [%clk 0:00:05]  
+( 30. Qg2 ) 
+30... Nxf8  Black wins on time.  0-1
+

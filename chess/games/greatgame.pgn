@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pq4bDviG"]
+[Date "2024.01.11"]
+[White "Illinger"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[UTCDate "2024.01.11"]
+[UTCTime "22:29:17"]
+[WhiteElo "1713"]
+[BlackElo "1663"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D80"]
+[Opening "Grünfeld Defense: Stockholm Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 { [%eval 0.13] [%clk 0:05:00] } 1... Nf6 { [%eval 0.16] [%clk 0:05:00] } 2. c4 { [%eval 0.16] [%clk 0:05:01] } 2... g6 { [%eval 0.37] [%clk 0:05:01] } 3. Nc3 { [%eval 0.31] [%clk 0:05:02] } 3... d5 { [%eval 0.2] [%clk 0:05:01] } 4. Bg5 { [%eval 0.07] [%clk 0:04:58] } { D80 Grünfeld Defense: Stockholm Variation } 4... Ne4 { [%eval 0.36] [%clk 0:04:57] } 5. Nxe4 { [%eval 0.0] [%clk 0:04:57] } 5... dxe4 { [%eval -0.15] [%clk 0:04:58] } 6. e3 { [%eval -0.13] [%clk 0:04:45] } 6... Bg7 { [%eval -0.07] [%clk 0:04:49] } 7. Qc2?! { (-0.07 → -0.87) Inaccuracy. Ne2 was best. } { [%eval -0.87] [%clk 0:04:43] } (7. Ne2 h6 8. Bf4 g5 9. Be5 Bxe5 10. dxe5 Qxd1+ 11. Rxd1 Nc6) 7... c5 { [%eval -0.58] [%clk 0:04:50] } 8. d5 { [%eval -0.52] [%clk 0:04:20] } 8... Qa5+ { [%eval -0.6] [%clk 0:04:21] } 9. Kd1?! { (-0.60 → -1.53) Inaccuracy. Qd2 was best. } { [%eval -1.53] [%clk 0:03:57] } (9. Qd2 Qxd2+) 9... Bd7 { [%eval -1.16] [%clk 0:04:21] } 10. Qxe4?! { (-1.16 → -1.83) Inaccuracy. Qd2 was best. } { [%eval -1.83] [%clk 0:03:46] } (10. Qd2 Qa4+) 10... Ba4+ { [%eval -1.36] [%clk 0:03:55] } 11. b3? { (-1.36 → -2.82) Mistake. Ke2 was best. } { [%eval -2.82] [%clk 0:03:43] } (11. Ke2) 11... Bxb3+ { [%eval -2.42] [%clk 0:03:55] } 12. Ke2 { [%eval -2.64] [%clk 0:03:28] } 12... Bxc4+ { [%eval -2.0] [%clk 0:03:50] } 13. Qxc4? { (-2.00 → -3.39) Mistake. Kf3 was best. } { [%eval -3.39] [%clk 0:03:28] } (13. Kf3 O-O) 13... Bxa1 { [%eval -3.48] [%clk 0:03:47] } 14. f4 { [%eval -3.89] [%clk 0:03:00] } 14... Qa6?! { (-3.89 → -2.90) Inaccuracy. h6 was best. } { [%eval -2.9] [%clk 0:03:45] } (14... h6 15. Bh4 Nd7 16. Kf2 Bf6 17. Nf3 Bxh4+ 18. Nxh4 O-O-O 19. Be2 Nb6 20. Qe4 Qxa2 21. Qxe7) 15. Qxa6 { [%eval -3.04] [%clk 0:03:01] } 15... Nxa6 { [%eval -3.11] [%clk 0:03:45] } 16. Nf3 { [%eval -3.3] [%clk 0:02:59] } 16... Nc7 { [%eval -3.1] [%clk 0:02:43] } 17. e4 { [%eval -3.01] [%clk 0:02:57] } 17... b5 { [%eval -3.02] [%clk 0:02:34] } 18. g3 { [%eval -3.26] [%clk 0:02:57] } 18... Bg7 { [%eval -3.25] [%clk 0:02:22] } 19. Kd3 { [%eval -4.0] [%clk 0:02:47] } 19... a5?! { (-4.00 → -3.12) Inaccuracy. Rd8 was best. } { [%eval -3.12] [%clk 0:01:43] } (19... Rd8 20. a4 bxa4 21. Ke3 Rb8 22. Bc4 Rb4 23. Kd3 Na8 24. e5 Nb6 25. Rc1 Rxc4 26. Rxc4) 20. g4 { [%eval -3.63] [%clk 0:02:48] } 20... c4+ { [%eval -3.36] [%clk 0:01:41] } 21. Kc2 { [%eval -3.73] [%clk 0:02:49] } 21... f6 { [%eval -3.12] [%clk 0:01:11] } 22. Bh4 { [%eval -3.15] [%clk 0:02:49] } 22... h5 { [%eval -3.32] [%clk 0:00:58] } 23. g5 { [%eval -3.77] [%clk 0:02:44] } 23... f5 { [%eval -3.74] [%clk 0:00:48] } 24. Ne5 { [%eval -4.49] [%clk 0:02:10] } 24... Bxe5 { [%eval -4.12] [%clk 0:00:43] } 25. fxe5 { [%eval -4.27] [%clk 0:02:12] } 25... fxe4 { [%eval -4.35] [%clk 0:00:46] } 26. d6 { [%eval -4.54] [%clk 0:02:11] } 26... exd6 { [%eval -4.72] [%clk 0:00:45] } 27. exd6 { [%eval -4.44] [%clk 0:02:12] } 27... Nd5 { [%eval -4.83] [%clk 0:00:35] } 28. Bg2?! { (-4.83 → -6.59) Inaccuracy. Bh3 was best. } { [%eval -6.59] [%clk 0:02:00] } (28. Bh3 Nf4 29. Bf1 Rf8 30. a4 bxa4 31. Bg3 Kd7 32. Kc3 h4 33. Bxh4 Rab8 34. Bg3 Rb4) 28... Ne3+ { [%eval -6.71] [%clk 0:00:21] } { White resigns. } 0-1
+
+

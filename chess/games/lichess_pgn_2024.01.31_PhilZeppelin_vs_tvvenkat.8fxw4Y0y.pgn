@@ -1,0 +1,27 @@
+[Site "https://lichess.org/8fxw4Y0y"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[White "PhilZeppelin"]
+[BlackElo "1676"]
+[WhiteElo "1697"]
+[Termination "Time forfeit"]
+[Black "tvvenkat"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.31"]
+[Date "2024.01.31"]
+[TimeControl "300+3"]
+[ECO "C07"]
+[UTCTime "17:11:28"]
+
+1. e4  [%clk 0:05:00]  1... e6  [%clk 0:05:00]  2. d4  [%clk 0:04:59]  2... d5  [%clk 0:05:02]  3. Nd2  [%clk 0:04:53]  3... c5  [%clk 0:04:55]  4. Ngf3  C07 French Defense: Tarrasch Variation, Open System, Euwe-Keres Line  4... cxd4  [%clk 0:04:55]  5. Nxd4  [%clk 0:04:45]  
+( 5. exd5 Qxd5 6. Bc4 Qd6 7. O-O Nf6 8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 ) 
+5... Bc5  [%clk 0:04:34]  6. N2b3  [%clk 0:04:38]  6... Bxd4  [%clk 0:03:54]  7. Qxd4  [%clk 0:04:28]  7... Nc6  [%clk 0:03:53]  8. Qxg7  [%clk 0:04:10]  8... Qf6  [%clk 0:03:43]  9. Qg3  [%clk 0:04:07]  
+( 9. Bh6 Qxh6 10. Qxh8 ) 
+9... dxe4  [%clk 0:03:27]  10. Bb5  [%clk 0:04:01]  10... Bd7  [%clk 0:03:20]  11. O-O  [%clk 0:03:59]  11... Nge7  [%clk 0:03:16]  12. Nc5  [%clk 0:02:07]  12... O-O-O  [%clk 0:02:54]  13. Nxd7  [%clk 0:01:32]  
+( 13. Nxe4 ) 
+13... Rxd7  [%clk 0:02:54]  14. Qa3  [%clk 0:00:40]  14... Rg8  [%clk 0:02:31]  15. Be3  [%clk 0:00:17]  15... Qg6  [%clk 0:02:19]  16. g3  [%clk 0:00:15]  16... a6  [%clk 0:02:17]  17. Bxa6  [%clk 0:00:08]  17... bxa6  [%clk 0:01:34]  18. Qxa6+  [%clk 0:00:07]  18... Rb7  [%clk 0:01:35]  19. b4  [%clk 0:00:04]  19... Ne5  Black wins on time.  0-1
+

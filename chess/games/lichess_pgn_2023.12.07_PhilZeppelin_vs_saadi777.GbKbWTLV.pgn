@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GbKbWTLV"]
+[Date "2023.12.07"]
+[White "PhilZeppelin"]
+[Black "saadi777"]
+[Result "1-0"]
+[UTCDate "2023.12.07"]
+[UTCTime "20:57:31"]
+[WhiteElo "1632"]
+[BlackElo "1648"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 Ne7 7. Bf4 Nc6 8. Qd2 a6 9. O-O-O Be7 10. f3 Be6 11. Kb1 Qd7 12. g4 O-O-O 13. Nd5 Bxd5 14. exd5 Ne5 15. Be2 Ng6 16. Bg3 h6 17. h4 Kb8 18. f4 f5 19. h5 Nf8 20. Qb4 fxg4 21. Bxa6 b6 22. Bb5 Qf5 23. Bc6 Qc8 24. Qa4 1-0
+
+

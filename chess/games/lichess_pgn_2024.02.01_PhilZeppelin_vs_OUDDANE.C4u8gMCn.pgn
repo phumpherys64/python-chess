@@ -1,0 +1,25 @@
+[Site "https://lichess.org/C4u8gMCn"]
+[Opening "Modern Defense: Standard Defense"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1708"]
+[WhiteElo "1700"]
+[Termination "Normal"]
+[Black "OUDDANE"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.01"]
+[Date "2024.02.01"]
+[TimeControl "300+3"]
+[ECO "B06"]
+[UTCTime "21:14:54"]
+
+1. e4  [%clk 0:05:00]  1... g6  [%clk 0:05:00]  2. d4  [%clk 0:05:00]  2... Bg7  [%clk 0:05:02]  3. Nc3  [%clk 0:04:53]  3... d6  B06 Modern Defense: Standard Defense  4. Be3  [%clk 0:04:53]  4... Nf6  [%clk 0:05:07]  5. f3  [%clk 0:04:54]  5... O-O  [%clk 0:05:07]  6. Qd2  [%clk 0:04:56]  6... a6  [%clk 0:05:05]  7. O-O-O  [%clk 0:04:58]  7... b5  [%clk 0:05:07]  8. Bh6  [%clk 0:04:57]  
+( 8. h4 h5 9. Nge2 Nc6 10. Nd5 Nh7 11. Bh6 ) 
+8... b4  [%clk 0:05:06]  9. Nd5  [%clk 0:04:29]  9... Nxd5  [%clk 0:05:07]  10. exd5  [%clk 0:04:10]  10... Bb7  [%clk 0:05:06]  11. h4  [%clk 0:04:06]  11... Bxd5  [%clk 0:04:49]  12. h5  [%clk 0:03:44]  12... g5  [%clk 0:03:06]  
+( 12... Bf6 13. Nh3 Nc6 14. Ng5 Re8 15. Bd3 ) 
+13. Qxg5  Black resigns.  1-0
+

@@ -1,0 +1,25 @@
+[Site "https://lichess.org/f7Ihrmys"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+23"]
+[White "PhilZeppelin"]
+[BlackElo "1758"]
+[WhiteElo "1721"]
+[Termination "Time forfeit"]
+[Black "izzat5233"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.07"]
+[Date "2024.02.07"]
+[TimeControl "300+3"]
+[ECO "B12"]
+[UTCTime "17:08:01"]
+
+1. e4  [%clk 0:05:00]  1... c6  [%clk 0:05:00]  2. d4  [%clk 0:05:01]  2... d5  [%clk 0:05:03]  3. e5  [%clk 0:04:59]  3... Bf5  [%clk 0:05:05]  4. Nf3  B12 Caro-Kann Defense: Advance Variation, Short Variation  4... e6  [%clk 0:05:07]  5. Be2  [%clk 0:04:59]  5... c5  [%clk 0:05:09]  6. c4  [%clk 0:04:39]  6... dxc4  [%clk 0:05:02]  7. Qa4+  [%clk 0:04:11]  7... Nc6  [%clk 0:04:46]  8. O-O  [%clk 0:03:27]  8... cxd4  [%clk 0:04:37]  9. Bxc4  [%clk 0:03:22]  9... Bc5  [%clk 0:04:30]  10. Na3  [%clk 0:02:45]  10... Ne7  [%clk 0:04:16]  11. Bg5  [%clk 0:02:30]  11... O-O  [%clk 0:04:00]  12. Rac1  [%clk 0:02:11]  12... a6  [%clk 0:04:01]  13. Qd1  [%clk 0:01:15]  13... Qd7  [%clk 0:03:17]  14. Bxe6  [%clk 0:00:44]  14... fxe6  [%clk 0:02:47]  15. Rxc5  [%clk 0:00:41]  15... d3  [%clk 0:02:43]  16. Nc4  [%clk 0:00:37]  16... Nd5  [%clk 0:02:33]  17. Nd6  [%clk 0:00:34]  17... Nd8  [%clk 0:02:12]  18. Nd4  [%clk 0:00:22]  
+( 18. Nh4 ) 
+18... Nf7  [%clk 0:02:11]  19. N4xf5  [%clk 0:00:10]  
+( 19. Rxd5 Nxg5 20. N6xf5 ) 
+19... Nxe5  Black wins on time.  0-1
+

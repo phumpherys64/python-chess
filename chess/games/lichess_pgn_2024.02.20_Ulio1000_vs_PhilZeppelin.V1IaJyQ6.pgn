@@ -1,0 +1,32 @@
+[Site "https://lichess.org/V1IaJyQ6"]
+[Opening "Sicilian Defense: Closed"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[White "Ulio1000"]
+[BlackElo "1670"]
+[WhiteElo "1683"]
+[Termination "Time forfeit"]
+[Black "PhilZeppelin"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.20"]
+[Date "2024.02.20"]
+[TimeControl "300+3"]
+[ECO "B23"]
+[UTCTime "17:11:15"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nc3  B23 Sicilian Defense: Closed  2... d6  [%clk 0:05:00]  3. d3  [%clk 0:05:01]  3... Nf6  [%clk 0:05:00]  4. g3  [%clk 0:05:02]  4... Nc6  [%clk 0:04:51]  5. Bg2  [%clk 0:05:00]  
+( 5. Nd5 e5 6. Nxf6+ Qxf6 ) 
+5... Nd4  [%clk 0:04:46]  6. Nce2  [%clk 0:04:59]  
+( 6. Nd5 Nxd5 7. exd5 e5 8. dxe6 Nxe6 ) 
+6... e5  [%clk 0:04:05]  7. c3  [%clk 0:04:59]  7... Nc6  [%clk 0:03:48]  8. f4  [%clk 0:04:58]  8... Be7  [%clk 0:03:21]  9. Nf3  [%clk 0:04:58]  9... Bg4  [%clk 0:02:35]  
+( 9... O-O ) 
+( 9... b5 ) 
+10. h3  [%clk 0:04:58]  10... Bd7  [%clk 0:01:51]  11. O-O  [%clk 0:04:59]  11... O-O  [%clk 0:01:50]  12. Kh2  [%clk 0:05:00]  12... exf4  [%clk 0:00:33]  13. Bxf4  [%clk 0:04:57]  13... Nh5  [%clk 0:00:32]  14. Be3  [%clk 0:04:46]  14... Ne5  [%clk 0:00:16]  15. Nxe5  [%clk 0:04:45]  15... dxe5  [%clk 0:00:16]  16. d4  [%clk 0:04:41]  16... cxd4  [%clk 0:00:09]  17. cxd4  [%clk 0:04:42]  17... exd4  [%clk 0:00:11]  
+( 17... Bd6 ) 
+18. Nxd4  [%clk 0:04:42]  18... Nf6  [%clk 0:00:11]  
+( 18... g6 19. g4 Ng7 ) 
+19. Nf5  [%clk 0:04:34]  19... Re8  [%clk 0:00:05]  20. Nxe7+  [%clk 0:04:28]  20... Rxe7  [%clk 0:00:05]  21. Bg5  [%clk 0:04:29]  21... Be6  [%clk 0:00:03]  22. Bxf6  [%clk 0:04:17]  22... gxf6  [%clk 0:00:04]  23. Rxf6  White wins on time.  23... Qxd1 24. Rxd1 Bxa2 1-0
+

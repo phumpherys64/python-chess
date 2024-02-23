@@ -1,0 +1,37 @@
+[Site "https://lichess.org/J8vVY1m2"]
+[Opening "Sicilian Defense: Closed"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[White "Barlonov"]
+[BlackElo "1649"]
+[WhiteElo "1668"]
+[Termination "Normal"]
+[Black "PhilZeppelin"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.02.19"]
+[Date "2024.02.19"]
+[TimeControl "300+3"]
+[ECO "B23"]
+[UTCTime "20:09:25"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nc3  B23 Sicilian Defense: Closed  2... d6  [%clk 0:05:01]  3. f3  [%clk 0:05:03]  3... Nf6  [%clk 0:05:02]  4. Bc4  [%clk 0:05:04]  4... e6  [%clk 0:05:03]  5. Nge2  [%clk 0:05:05]  5... a6  [%clk 0:05:05]  6. a3  [%clk 0:05:00]  6... d5  [%clk 0:05:01]  7. exd5  [%clk 0:04:52]  7... exd5  [%clk 0:05:02]  8. Ba2  [%clk 0:04:41]  8... Be7  [%clk 0:04:45]  
+( 8... b5 9. Nf4 ( 9. O-O Nc6 10. Nf4 c4 ) 9... Ra7 10. O-O ( 10. Nfxd5 Nxd5 11. Nxd5 c4 12. Qe2+ Be7 13. Nc3 Nc6 14. O-O Nd4 15. Qd1 Rd7 ) 10... c4 11. Kh1 ( 11. Re1+ Be7 12. d3 Rd7 ) 11... Rd7 ( 11... Nc6 ) ) 
+9. Nf4  [%clk 0:04:40]  9... d4  [%clk 0:04:22]  
+( 9... O-O 10. d3 ( 10. O-O c4 11. d3 b5 12. dxc4 dxc4 13. b3 cxb3 14. cxb3 ( 14. Bxb3 Bb7 ) ) 10... Be6 11. Nxe6 fxe6 12. O-O Bd6 ) 
+10. Ne4  [%clk 0:04:18]  10... Nxe4  [%clk 0:04:17]  11. fxe4  [%clk 0:04:17]  11... O-O  [%clk 0:04:03]  12. O-O  [%clk 0:04:10]  12... Bd6  [%clk 0:04:00]  13. d3  [%clk 0:04:05]  13... Nc6  [%clk 0:03:40]  14. Qh5  [%clk 0:04:05]  14... Ne5  [%clk 0:03:20]  15. h3  [%clk 0:02:59]  15... Ng6  [%clk 0:02:41]  
+( 15... Bd7 ) 
+16. Nxg6  [%clk 0:02:53]  16... hxg6  [%clk 0:02:38]  17. Qxg6  [%clk 0:02:53]  17... Qe7  [%clk 0:02:23]  18. Bh6  [%clk 0:02:48]  18... Be5  [%clk 0:02:18]  19. Rf3  [%clk 0:02:29]  
+( 19. Rxf7 Rxf7 20. Rf1 Be6 21. Bxe6 Rf8 ) 
+19... Be6  [%clk 0:02:18]  20. Bxe6  [%clk 0:02:27]  20... Qxe6  [%clk 0:02:08]  21. Qxe6  [%clk 0:02:13]  21... fxe6  [%clk 0:02:10]  22. Bd2  [%clk 0:02:00]  22... Rxf3  [%clk 0:02:02]  23. gxf3  [%clk 0:01:59]  23... Rf8  [%clk 0:01:45]  24. Kg2  [%clk 0:01:55]  24... Bf4  [%clk 0:01:44]  25. Bxf4  [%clk 0:01:53]  25... Rxf4  [%clk 0:01:45]  26. Kg3  [%clk 0:01:54]  26... e5  [%clk 0:01:46]  27. b4  [%clk 0:01:48]  
+( 27. h4 ) 
+27... cxb4  [%clk 0:01:34]  28. axb4  [%clk 0:01:46]  28... Kh7  [%clk 0:01:25]  
+( 28... Rf6 ) 
+29. Ra5  [%clk 0:01:47]  29... Rf6  [%clk 0:01:15]  30. Rxe5  [%clk 0:01:47]  30... Rb6  [%clk 0:01:18]  31. f4  [%clk 0:01:26]  31... Rxb4  [%clk 0:01:16]  32. Ra5  [%clk 0:01:19]  32... Rb2  [%clk 0:01:11]  33. Rc5  [%clk 0:01:14]  33... b5  [%clk 0:01:04]  34. e5  [%clk 0:01:15]  34... Kg8  [%clk 0:00:58]  35. Rc7  [%clk 0:01:11]  35... a5  [%clk 0:00:42]  36. e6  [%clk 0:01:11]  36... Kf8  [%clk 0:00:37]  37. Kg4  [%clk 0:01:07]  37... a4  [%clk 0:00:34]  38. Kf5  [%clk 0:01:06]  38... a3  [%clk 0:00:28]  39. Kg6  [%clk 0:01:05]  
+( 39. Ke5 Rb1 40. Kd6 ) 
+39... a2  [%clk 0:00:24]  40. Ra7  [%clk 0:00:46]  40... b4  [%clk 0:00:17]  41. e7+  [%clk 0:00:45]  41... Ke8  [%clk 0:00:17]  42. Kxg7  [%clk 0:00:46]  42... Rxc2  [%clk 0:00:10]  43. Kf6  [%clk 0:00:44]  
+( 43. f5 Rc7 ) 
+43... Rc6+  [%clk 0:00:09]  44. Ke5  [%clk 0:00:43]  44... b3  [%clk 0:00:09]  45. Kxd4  [%clk 0:00:42]  45... b2  [%clk 0:00:09]  46. Rxa2  [%clk 0:00:25]  46... b1=Q  [%clk 0:00:10]  47. Ra8+  [%clk 0:00:26]  47... Kxe7  [%clk 0:00:11]  48. Ra7+  [%clk 0:00:25]  48... Kd6  [%clk 0:00:09]  49. f5  [%clk 0:00:23]  49... Qb6+  [%clk 0:00:07]  50. Ke4  [%clk 0:00:23]  50... Qxa7  [%clk 0:00:09]  51. f6  [%clk 0:00:25]  51... Qf7  [%clk 0:00:07]  52. Kf5  [%clk 0:00:26]  52... Rc5+  [%clk 0:00:07]  53. Kg4  [%clk 0:00:27]  53... Qxf6  [%clk 0:00:08]  54. h4  [%clk 0:00:29]  54... Qg6+  [%clk 0:00:09]  55. Kf3  [%clk 0:00:30]  55... Qf5+  [%clk 0:00:10]  56. Ke3  [%clk 0:00:32]  56... Kd5  [%clk 0:00:10]  57. d4  [%clk 0:00:33]  57... Rc3+  [%clk 0:00:11]  58. Kd2  [%clk 0:00:34]  58... Kxd4  [%clk 0:00:13]  59. Ke1  [%clk 0:00:35]  59... Qb1+  [%clk 0:00:09]  60. Kf2  [%clk 0:00:36]  60... Qb2+  [%clk 0:00:11]  61. Kg1  [%clk 0:00:36]  61... Rc1#  Black wins by checkmate.  0-1
+

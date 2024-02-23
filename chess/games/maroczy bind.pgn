@@ -1,0 +1,31 @@
+[Site "https://lichess.org/lbiSflaW"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+[Annotator "lichess.org"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[White "PhilZeppelin"]
+[BlackElo "1671"]
+[WhiteElo "1676"]
+[Termination "Normal"]
+[Black "AjedrezToday"]
+[Result "1-0"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2024.01.05"]
+[Date "2024.01.05"]
+[TimeControl "300+3"]
+[ECO "B38"]
+[UTCTime "18:42:07"]
+
+1. e4  [%clk 0:05:00]  1... c5  [%clk 0:05:00]  2. Nf3  [%clk 0:05:02]  2... g6  [%clk 0:05:02]  3. d4  [%clk 0:05:03]  3... cxd4  [%clk 0:05:03]  4. Nxd4  [%clk 0:05:05]  4... Bg7  [%clk 0:05:05]  5. Be3  [%clk 0:05:01]  5... Nc6  [%clk 0:05:06]  6. c4  B38 Sicilian Defense: Accelerated Dragon, Maróczy Bind  6... Nf6  [%clk 0:05:08]  7. Nc3  [%clk 0:04:57]  7... a6  [%clk 0:05:08]  8. f3  [%clk 0:04:50]  8... O-O  [%clk 0:05:09]  9. Qd2  [%clk 0:04:52]  9... Qa5  [%clk 0:05:09]  10. O-O-O  [%clk 0:04:42]  
+( 10. Nb3 Qd8 ( 10... Qc7 11. Nd5 Nxd5 12. cxd5 Ne5 13. Rc1 ) 11. Nd5 Nxd5 12. cxd5 Ne5 13. Be2 ) 
+10... Nxd4  [%clk 0:05:11]  11. Bxd4  [%clk 0:04:43]  11... d6  [%clk 0:05:04]  12. Kb1  [%clk 0:04:41]  12... Re8  [%clk 0:05:06]  13. h4  [%clk 0:04:16]  13... Bd7  [%clk 0:05:04]  14. h5  [%clk 0:04:16]  14... b5  [%clk 0:05:06]  15. hxg6  [%clk 0:04:13]  
+( 15. g4 ) 
+15... fxg6  [%clk 0:05:07]  16. g4  [%clk 0:03:14]  16... b4  [%clk 0:05:09]  17. Nd5  [%clk 0:03:14]  17... Nxd5  [%clk 0:04:29]  18. Bxg7  [%clk 0:03:11]  18... Kxg7  [%clk 0:04:24]  
+( 18... Nc3+ 19. bxc3 Qa4 ( 19... Kxg7 20. Qh6+ Kf6 21. Rd5 ) ) 
+19. cxd5  [%clk 0:03:08]  
+( 19. Qh6+ Kf7 ( 19... Kf6 20. g5+ Ke5 21. Rxd5+ ) ) 
+19... Ba4  [%clk 0:04:18]  20. Qh6+  [%clk 0:02:56]  20... Kf6  [%clk 0:04:16]  21. Qh4+  [%clk 0:02:26]  
+( 21. g5+ Kf7 ( 21... Ke5 22. Qh2# ) 22. Qxh7+ Kf8 23. Qh8+ Kf7 24. Rh7# ) 
+21... Ke5  [%clk 0:04:10]  22. Qg5#  White wins by checkmate.  1-0
+

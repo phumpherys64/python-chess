@@ -1,0 +1,26 @@
+[Site "https://lichess.org/FMwpohU5"]
+[Opening "Russian Game: Stafford Gambit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+16"]
+[White "PhilZeppelin"]
+[BlackElo "1589"]
+[WhiteElo "1596"]
+[Termination "Time forfeit"]
+[Black "BarrowfulOfWhat"]
+[Result "0-1"]
+[Event "Rated Blitz game"]
+[Variant "Standard"]
+[UTCDate "2023.12.09"]
+[Date "2023.12.09"]
+[TimeControl "300+3"]
+[ECO "C42"]
+[UTCTime "18:08:39"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d3 Bc5 6. Be2 h5 7. c3 Ng4 8. d4 Bb6 9. h3 Nxf2 10. Kxf2 Qh4+ 11. g3 Qxe4 12. Re1 Qf5+ 13. Bf3+ Be6 14. g4 hxg4 15. hxg4 Rh2+ 16. Kg3 
+( 16. Kg1 Qh7 17. Bf4 ) 
+16... Qh7 17. Bg5 Qh3+ 18. Kf4 f6 19. Rxe6+ Kf7 20. Re3 
+( 20. Re4 fxg5+ 21. Ke3 ) 
+20... fxg5+ 21. Kf5 g6+ 22. Ke4 Re8+ 23. Kd3 Rxe3+ 24. Kxe3 Qg3 25. Nd2 Qf4+ 26. Kd3 c5 27. Bd5+ Kg7 28. Kc2 
+( 28. Nf3 ) 
+28... cxd4 29. Qe1 dxc3 0-1
+
