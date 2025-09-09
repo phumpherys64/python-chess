@@ -1,0 +1,52 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+
+# Test/coverage artifacts
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+nosetests.xml
+test-output/
+
+# Local config / secrets
+.env
+.python-version
+
+# Project caches
+.cache/
+.cache/lichess/
+
+# App session/state
+.endgame_gui_session.json
+
+# Generated assets (optional; comment out if you want to track images)
+best_move.svg
+heatmap.svg
+eval_chart.png
+

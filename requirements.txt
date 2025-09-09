@@ -1,0 +1,4 @@
+python-chess>=1.999
+matplotlib>=3.7.0
+cairosvg>=2.7.0
+requests>=2.31.0
