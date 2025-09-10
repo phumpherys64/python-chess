@@ -35,6 +35,13 @@ CLI tools to explore fun ideas with python-chess:
   - Common macOS path: `/opt/homebrew/bin/stockfish`
 - Optional: point to local Syzygy tablebases via `SYZYGY_PATH` or pass `--tb-path` to the endgame coach.
 
+### Quick Start
+
+- Install Stockfish (macOS): `brew install stockfish`
+- Install deps: `pip install -r requirements.txt`
+- (Optional) Create `.chessrc.json` with your engine/TB/Lichess defaults (see below)
+- Try it: `python -m scripts analyse --depth 12 --multipv 3`
+
 ## Usage
 
 Call the CLI via module run:
@@ -111,6 +118,26 @@ If no tablebases are found or the position is unsupported, the coach falls back 
 
   export LICHESS_TOKEN=\<your_token\>
   python -m scripts lichess-export --user YOUR_NAME --out your_games.pgn --max 200 --perf classical --rated true
+
+## Command Index
+
+- `analyse`: Multi-PV engine suggestions for a position
+- `blunders`: Detect blunders in a PGN by eval drops
+- `bestmove-svg`: Render best move arrow to SVG/PNG
+- `endgame-coach`: Syzygy or engine (optional Lichess fallbacks)
+- `endgame-from-pgn`: Detect endgame segment and coach it
+- `endgame-gui`: Tk GUI with TB hints, analysis, export tools
+- `move-heatmap-svg`: Evaluate all legal moves and color arrows
+- `eval-chart`: Plot eval over game with blunder markers
+- `annotate-pgn`: Add evals/NAGs and engine lines (tagged)
+- `pgn-insert-pv`: Insert a chosen PV into PGN at a FEN/ply
+- `tb-scan`: Tag first TB-covered ply and emit CSV
+- `lichess-tablebase`: Query cloud TB for WDL/DTZ/DTM
+- `lichess-cloud-eval`: Query cloud Stockfish PVs
+- `lichess-explorer`: Opening stats (Masters/Lichess DB)
+- `lichess-export`: Export user games to PGN/NDJSON
+- `lichess-export-annotate`: Export + annotate + (optional) blunders CSV
+- `lichess-cache clear|stats|fetch`: Manage and prewarm cache
 
 - Export and annotate a user's games in one go:
 
@@ -205,3 +232,23 @@ CLI flags still override these values.
 - PNG export for SVGs requires CairoSVG.
 - Eval chart plotting requires matplotlib; if missing, `eval-chart` can still write `--csv-out`.
 - For Lichess endpoints, set `LICHESS_TOKEN` (optional) and consider using `--cache-dir` and `--cache-ttl`.
+
+## Troubleshooting
+
+- Stockfish not found: set `STOCKFISH` env var or add path in `.chessrc.json` as `stockfish_path`.
+- Tkinter errors on macOS: install Python via the official installer (includes Tk) or `brew install python-tk` (varies by OS).
+- Lichess rate limits: enable caching with `--cache-dir` and a reasonable `--cache-ttl`, and/or set `LICHESS_TOKEN`.
+- GUI images not rendering: ensure `cairosvg` is installed (`pip install cairosvg`).
+- Large exports: use `lichess-export-annotate` (streams to temp file), or export first then annotate.
+
+## Contributing
+
+Contributions are welcome! Please see `CONTRIBUTING.md` for guidelines on setup, workflow, and submitting PRs. By contributing, you agree that your contributions will be licensed under the MIT License.
+
+## Code of Conduct
+
+This project follows the Contributor Covenant. See `CODE_OF_CONDUCT.md`.
+
+## License
+
+MIT — see `LICENSE` for details.
